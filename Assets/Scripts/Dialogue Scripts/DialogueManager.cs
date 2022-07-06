@@ -9,6 +9,7 @@ public class DialogueManager : MonoBehaviour
     public Text dialogueText;
     public Animator animator; 
     public Queue<string> sentences;
+    public GameObject shopUi;
 
     private void Start()
     {
@@ -55,7 +56,8 @@ public class DialogueManager : MonoBehaviour
 
     void EndDialogue()
     {
-        animator.SetBool("isOpen", false) ;
+        animator.SetBool("IsOpen", false) ;
+        shopUi.SetActive(true);
     }
 
 
