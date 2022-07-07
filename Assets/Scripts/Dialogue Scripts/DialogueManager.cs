@@ -10,15 +10,20 @@ public class DialogueManager : MonoBehaviour
     public Animator animator; 
     public Queue<string> sentences;
     public GameObject shopUi;
+    public GameObject dialogueBox;
+    public GameObject removeButton;
 
     private void Start()
     {
         sentences = new Queue<string>();
+        removeButton.SetActive(false);
     }
 
     public void StartDialogue(Dialogue dialogue)
     {
         animator.SetBool("IsOpen", true);
+        removeButton.SetActive(true);
+
         nameText.text = dialogue.name;
 
         sentences.Clear();
@@ -57,7 +62,14 @@ public class DialogueManager : MonoBehaviour
     void EndDialogue()
     {
         animator.SetBool("IsOpen", false) ;
+        removeButton.SetActive(false);
         shopUi.SetActive(true);
+    }
+
+    public void RemoveDialogue()
+    {
+        animator.SetBool("IsOpen", false);
+        removeButton.SetActive(false);
     }
 
 

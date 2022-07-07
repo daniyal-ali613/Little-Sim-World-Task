@@ -6,9 +6,15 @@ public class Menu : MonoBehaviour
 {
     public GameObject menu;
 
+    private void Start()
+    {
+        Time.timeScale = 0;
+    }
+
     public void CloseMenu()
     {
         menu.gameObject.SetActive(false);
+        Time.timeScale = 1;
     }
 
     public void EndGame()
