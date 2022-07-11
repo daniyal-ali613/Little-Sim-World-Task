@@ -10,10 +10,14 @@ public class PlayerMovement : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     public Transform shop;
     Vector2 movement;
-    public DialogueTrigger trigger;
-    public Transform target;
+    DialogueTrigger dialogueTrigger;
     public float radius;
 
+
+    void Start()
+    {
+       dialogueTrigger =  FindObjectOfType<DialogueTrigger>();
+    }
 
     void Update()
     {
@@ -30,10 +34,11 @@ public class PlayerMovement : MonoBehaviour
     {
         if (other.gameObject.CompareTag("shop"))
         {
-            trigger.TriggerDialogue();
+            dialogueTrigger.TriggerDialogue();
 
         }
     }
+
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);

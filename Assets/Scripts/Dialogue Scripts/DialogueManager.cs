@@ -5,72 +5,139 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
-    public Text nameText;
-    public Text dialogueText;
-    public Animator animator; 
-    public Queue<string> sentences;
+    public Text firstNameText;
+    public Text firstDialogueText;
+    public Text secondNameText;
+    public Text secondDialogueText;
+    public Animator firstAnimator;
+    public Animator secondAnimator;
+    public Queue <string> firstSentences;
+    public Queue <string> secondSentences;
     public GameObject shopUi;
-    public GameObject dialogueBox;
+    public GameObject firstdialogueBox;
+    public GameObject seconddialogueBox;
     public GameObject removeButton;
+    private bool first;
+    private bool second;
 
     private void Start()
     {
-        sentences = new Queue<string>();
+        firstSentences = new Queue<string>();
+        secondSentences = new Queue<string>();
         removeButton.SetActive(false);
+        first =  true;
+        second = false;
     }
 
     public void StartDialogue(Dialogue dialogue)
     {
-        animator.SetBool("IsOpen", true);
+        secondAnimator.SetBool("IsOpen", true);
         removeButton.SetActive(true);
 
-        nameText.text = dialogue.name;
+        firstNameText.text = dialogue.firstName;
+        secondNameText.text = dialogue.secondName;
 
-        sentences.Clear();
+        firstSentences.Clear();
 
-        foreach(string sentence in dialogue.sentences)
+        foreach(string sentence in dialogue.firstSentences)
         {
-            sentences.Enqueue(sentence);
+            firstSentences.Enqueue(sentence);
         }
 
-        DisplayNextSentence();
-    }
-
-    public void DisplayNextSentence()
-    {
-        if(sentences.Count == 0)
+        foreach (string sentence in dialogue.secondSentences)
         {
-            EndDialogue();
-            return;
+            secondSentences.Enqueue(sentence);
         }
 
-        string sentence = sentences.Dequeue();
-        StopAllCoroutines();
-        StartCoroutine(TypeSentence(sentence));
+
+        StartCoroutine(DisplayNextSentence());
     }
 
-    IEnumerator TypeSentence (string sentence)
+    private IEnumerator DisplayNextSentence()
     {
-        dialogueText.text = "";
+        yield return new WaitForSeconds(2);
+
+        if (first == true)
+        {
+            firstAnimator.SetBool("isOpen", true);
+
+            string sentence = firstSentences.Dequeue();
+            StopAllCoroutines();
+            StartCoroutine(FirstTypeSentence(sentence)); 
+        }
+
+        if(second == true)
+        {
+          string sentence = secondSentences.Dequeue();
+          StopAllCoroutines();
+          StartCoroutine(SecondTypeSentence(sentence));
+        }
+        
+    }
+
+    IEnumerator FirstTypeSentence (string sentence)
+    {
+        firstDialogueText.text = "";
         foreach (char letter in sentence.ToCharArray())
         {
-            dialogueText.text += letter;
+            firstDialogueText.text += letter;
             yield return null;
+        }
+
+        first = false;
+        second = true;
+
+        if (firstSentences.Count == 0)
+        {
+            secondAnimator.SetBool("IsOpen", false);
+            EndFirstDialogue();
+        }
+
+        else
+        {
+            StartCoroutine(DisplayNextSentence());
         }
     }
 
-    void EndDialogue()
+    IEnumerator SecondTypeSentence(string sentence)
     {
-        animator.SetBool("IsOpen", false) ;
+        secondDialogueText.text = "";
+        foreach (char letter in sentence.ToCharArray())
+        {
+            secondDialogueText.text += letter;
+            yield return null;
+        }
+
+        first = true;
+        second = false;
+
+        if (secondSentences.Count == 0)
+        {
+            firstAnimator.SetBool("isOpen", false);
+            EndSecondDialogue();
+        }
+
+        else
+        {
+            StartCoroutine(DisplayNextSentence());
+        }
+    }
+
+    void EndFirstDialogue()
+    {
+        firstAnimator.SetBool("isOpen", false) ;
         removeButton.SetActive(false);
         shopUi.SetActive(true);
     }
 
-    public void RemoveDialogue()
+    void EndSecondDialogue()
     {
-        animator.SetBool("IsOpen", false);
-        removeButton.SetActive(false);
+        secondAnimator.SetBool("IsOpen", false);
     }
 
-
+    public void RemoveDialogue()
+    {
+        firstAnimator.SetBool("IsOpen", false);
+        removeButton.SetActive(false);
+    }
 }
