@@ -12,10 +12,12 @@ public class PlayerMovement : MonoBehaviour
     Vector2 movement;
     DialogueTrigger dialogueTrigger;
     public float radius;
+    public bool movePlayer;
 
 
     void Start()
     {
+       movePlayer = true;
        dialogueTrigger =  FindObjectOfType<DialogueTrigger>();
     }
 
@@ -34,13 +36,16 @@ public class PlayerMovement : MonoBehaviour
     {
         if (other.gameObject.CompareTag("shop"))
         {
+            movePlayer = false;
             dialogueTrigger.TriggerDialogue();
-
         }
     }
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
+        if(movePlayer == true)
+        {
+          rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
+        }
     }
 }

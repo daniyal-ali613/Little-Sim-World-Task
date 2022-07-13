@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Shop_UI : MonoBehaviour
 {
+    public PlayerMovement movement;
     public GameObject ui;
     public List<GameObject> items = new List<GameObject>();
     public List<GameObject> itemCost = new List<GameObject>();
@@ -106,6 +107,7 @@ public class Shop_UI : MonoBehaviour
 
     public void RemoveUI()
     {
+        movement.movePlayer = true;
         ui.SetActive(false);
     }
 

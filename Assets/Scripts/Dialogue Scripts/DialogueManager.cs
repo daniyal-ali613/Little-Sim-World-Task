@@ -16,15 +16,15 @@ public class DialogueManager : MonoBehaviour
     public GameObject shopUi;
     public GameObject firstdialogueBox;
     public GameObject seconddialogueBox;
-    public GameObject removeButton;
     private bool first;
     private bool second;
+    PlayerMovement movement;
 
     private void Start()
     {
         firstSentences = new Queue<string>();
         secondSentences = new Queue<string>();
-        removeButton.SetActive(false);
+        movement = FindObjectOfType<PlayerMovement>();
         first =  true;
         second = false;
     }
@@ -32,7 +32,6 @@ public class DialogueManager : MonoBehaviour
     public void StartDialogue(Dialogue dialogue)
     {
         secondAnimator.SetBool("IsOpen", true);
-        removeButton.SetActive(true);
 
         firstNameText.text = dialogue.firstName;
         secondNameText.text = dialogue.secondName;
@@ -126,7 +125,6 @@ public class DialogueManager : MonoBehaviour
     void EndFirstDialogue()
     {
         firstAnimator.SetBool("isOpen", false) ;
-        removeButton.SetActive(false);
         shopUi.SetActive(true);
     }
 
@@ -135,9 +133,4 @@ public class DialogueManager : MonoBehaviour
         secondAnimator.SetBool("IsOpen", false);
     }
 
-    public void RemoveDialogue()
-    {
-        firstAnimator.SetBool("IsOpen", false);
-        removeButton.SetActive(false);
-    }
 }
