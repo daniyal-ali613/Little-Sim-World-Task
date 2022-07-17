@@ -13,10 +13,12 @@ public class PlayerMovement : MonoBehaviour
     DialogueTrigger dialogueTrigger;
     public float radius;
     public bool movePlayer;
+    SpriteRenderer spr;
 
 
     void Start()
     {
+        spr = GetComponent<SpriteRenderer>();
        movePlayer = true;
        dialogueTrigger =  FindObjectOfType<DialogueTrigger>();
     }
@@ -39,6 +41,8 @@ public class PlayerMovement : MonoBehaviour
             movePlayer = false;
             dialogueTrigger.TriggerDialogue();
         }
+
+        
     }
 
     private void FixedUpdate()
