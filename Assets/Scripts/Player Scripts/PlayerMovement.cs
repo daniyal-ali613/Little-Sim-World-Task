@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
         spr = GetComponent<SpriteRenderer>();
        movePlayer = true;
        dialogueTrigger =  FindObjectOfType<DialogueTrigger>();
+
     }
 
     void Update()
