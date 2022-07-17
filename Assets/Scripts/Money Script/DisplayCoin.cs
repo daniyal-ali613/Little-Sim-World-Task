@@ -10,6 +10,7 @@ public class DisplayCoin : MonoBehaviour
     public void IncreaseMoney(int increment)
     {
         money += increment;
+        Debug.Log("money" + money);
     }
 
     public void DecreaseMoney(int decrement)
