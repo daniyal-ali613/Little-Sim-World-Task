@@ -1,0 +1,4652 @@
+fileFormatVersion: 2
+guid: 5b2fc57e0a4ad5445bbcf35d85bf9352
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5219887283007613492
+    second: sleevless_black_0
+  - first:
+      213: 6974089056830479859
+    second: sleevless_black_1
+  - first:
+      213: -3660069371109838980
+    second: sleevless_black_2
+  - first:
+      213: -6687618721651347203
+    second: sleevless_black_3
+  - first:
+      213: 7675351030257088106
+    second: sleevless_black_4
+  - first:
+      213: -1470292241334932352
+    second: sleevless_black_5
+  - first:
+      213: 4071494373716212843
+    second: sleevless_black_6
+  - first:
+      213: 3855498398206046691
+    second: sleevless_black_7
+  - first:
+      213: 1793718326539553439
+    second: sleevless_black_8
+  - first:
+      213: 6826360143347599817
+    second: sleevless_black_9
+  - first:
+      213: 136903809875599175
+    second: sleevless_black_10
+  - first:
+      213: 5719534273511482537
+    second: sleevless_black_11
+  - first:
+      213: 6467655904037253196
+    second: sleevless_black_12
+  - first:
+      213: -337875608839011608
+    second: sleevless_black_13
+  - first:
+      213: -2187833011105421509
+    second: sleevless_black_14
+  - first:
+      213: -3471887461646734226
+    second: sleevless_black_15
+  - first:
+      213: 4000473840031587454
+    second: sleevless_black_16
+  - first:
+      213: 2508924507738894109
+    second: sleevless_black_17
+  - first:
+      213: -7263097132978900037
+    second: sleevless_black_18
+  - first:
+      213: -2705776953580711209
+    second: sleevless_black_19
+  - first:
+      213: -6366276411447238005
+    second: sleevless_black_20
+  - first:
+      213: -4981094940882998542
+    second: sleevless_black_21
+  - first:
+      213: 9182154051790234035
+    second: sleevless_black_22
+  - first:
+      213: -9189583652428228762
+    second: sleevless_black_23
+  - first:
+      213: -3994026505383851835
+    second: sleevless_black_24
+  - first:
+      213: 3325893465113570535
+    second: sleevless_black_25
+  - first:
+      213: 2805742287403376826
+    second: sleevless_black_26
+  - first:
+      213: 4473872277123587657
+    second: sleevless_black_27
+  - first:
+      213: 6275124180811196603
+    second: sleevless_black_28
+  - first:
+      213: -3014629425184094264
+    second: sleevless_black_29
+  - first:
+      213: -6773095999929620925
+    second: sleevless_black_30
+  - first:
+      213: -1916991703504990074
+    second: sleevless_black_31
+  - first:
+      213: 6905692704173154230
+    second: sleevless_black_32
+  - first:
+      213: 6594225565017337289
+    second: sleevless_black_33
+  - first:
+      213: -65323515727203021
+    second: sleevless_black_34
+  - first:
+      213: -6989087037623202520
+    second: sleevless_black_35
+  - first:
+      213: -1866557236217963999
+    second: sleevless_black_36
+  - first:
+      213: -4856587397707044650
+    second: sleevless_black_37
+  - first:
+      213: 7387179280467063660
+    second: sleevless_black_38
+  - first:
+      213: 1706421232723854204
+    second: sleevless_black_39
+  - first:
+      213: 4210821421383859669
+    second: sleevless_black_40
+  - first:
+      213: 5501673293289492843
+    second: sleevless_black_41
+  - first:
+      213: -1311913682270191440
+    second: sleevless_black_42
+  - first:
+      213: -3729559819606339647
+    second: sleevless_black_43
+  - first:
+      213: -4961053041804495816
+    second: sleevless_black_44
+  - first:
+      213: -7998870982982361572
+    second: sleevless_black_45
+  - first:
+      213: 4503918221552652722
+    second: sleevless_black_46
+  - first:
+      213: 4189846972880849938
+    second: sleevless_black_47
+  - first:
+      213: 5359403192906413984
+    second: sleevless_black_48
+  - first:
+      213: 5027260992754227515
+    second: sleevless_black_49
+  - first:
+      213: -7161840792793250372
+    second: sleevless_black_50
+  - first:
+      213: 8106845870149213971
+    second: sleevless_black_51
+  - first:
+      213: 1283853390609360376
+    second: sleevless_black_52
+  - first:
+      213: 7458260977623769045
+    second: sleevless_black_53
+  - first:
+      213: 3562753982686238261
+    second: sleevless_black_54
+  - first:
+      213: -397476873127229798
+    second: sleevless_black_55
+  - first:
+      213: -3425632231605850820
+    second: sleevless_black_56
+  - first:
+      213: 325168325175276037
+    second: sleevless_black_57
+  - first:
+      213: -7526286899032786002
+    second: sleevless_black_58
+  - first:
+      213: 3523221761477708133
+    second: sleevless_black_59
+  - first:
+      213: 9189427687215263253
+    second: sleevless_black_60
+  - first:
+      213: -710897131956030043
+    second: sleevless_black_61
+  - first:
+      213: -5721504825003279420
+    second: sleevless_black_62
+  - first:
+      213: -7624476716174770116
+    second: sleevless_black_63
+  - first:
+      213: -6830597182644517277
+    second: sleevless_black_64
+  - first:
+      213: 2713772850720821335
+    second: sleevless_black_65
+  - first:
+      213: 2108549145283156114
+    second: sleevless_black_66
+  - first:
+      213: -5224694795370691408
+    second: sleevless_black_67
+  - first:
+      213: -1950111457181592827
+    second: sleevless_black_68
+  - first:
+      213: 3442010818450740024
+    second: sleevless_black_69
+  - first:
+      213: -7393645805187067882
+    second: sleevless_black_70
+  - first:
+      213: 7865306018400304359
+    second: sleevless_black_71
+  - first:
+      213: -4099971721564964317
+    second: sleevless_black_72
+  - first:
+      213: -4370940616007331236
+    second: sleevless_black_73
+  - first:
+      213: 5941709872180333494
+    second: sleevless_black_74
+  - first:
+      213: 2017572434060939965
+    second: sleevless_black_75
+  - first:
+      213: -5256006916957735190
+    second: sleevless_black_76
+  - first:
+      213: 2628449977906368785
+    second: sleevless_black_77
+  - first:
+      213: -662230982702582610
+    second: sleevless_black_78
+  - first:
+      213: -8388223014936497355
+    second: sleevless_black_79
+  - first:
+      213: 6771961976232138892
+    second: sleevless_black_80
+  - first:
+      213: 7558853298988844922
+    second: sleevless_black_81
+  - first:
+      213: -3822096747934865881
+    second: sleevless_black_82
+  - first:
+      213: -6405131581106136562
+    second: sleevless_black_83
+  - first:
+      213: 2903983188276604707
+    second: sleevless_black_84
+  - first:
+      213: -2097711060237056073
+    second: sleevless_black_85
+  - first:
+      213: -776169728159772858
+    second: sleevless_black_86
+  - first:
+      213: 8142161233741967150
+    second: sleevless_black_87
+  - first:
+      213: -4787799906507800818
+    second: sleevless_black_88
+  - first:
+      213: -4931671070497028483
+    second: sleevless_black_89
+  - first:
+      213: -4528132972679962183
+    second: sleevless_black_90
+  - first:
+      213: 3080325414927362735
+    second: sleevless_black_91
+  - first:
+      213: 5538459444559583136
+    second: sleevless_black_92
+  - first:
+      213: 1854528048828771785
+    second: sleevless_black_93
+  - first:
+      213: 2082194859531626853
+    second: sleevless_black_94
+  - first:
+      213: -4462969794073708904
+    second: sleevless_black_95
+  - first:
+      213: 4732713673075003444
+    second: sleevless_black_96
+  - first:
+      213: 7460728610419109419
+    second: sleevless_black_97
+  - first:
+      213: 9028697176176859147
+    second: sleevless_black_98
+  - first:
+      213: -3657505428608622712
+    second: sleevless_black_99
+  - first:
+      213: 3519161734155767674
+    second: sleevless_black_100
+  - first:
+      213: -1481065222276400292
+    second: sleevless_black_101
+  - first:
+      213: 8218763092123070187
+    second: sleevless_black_102
+  - first:
+      213: -3782388351437035892
+    second: sleevless_black_103
+  - first:
+      213: -771700919042424947
+    second: sleevless_black_104
+  - first:
+      213: 6778712542598355735
+    second: sleevless_black_105
+  - first:
+      213: -3167741932779495444
+    second: sleevless_black_106
+  - first:
+      213: 3706839887299381375
+    second: sleevless_black_107
+  - first:
+      213: 7868786121429434650
+    second: sleevless_black_108
+  - first:
+      213: 3523718066949323723
+    second: sleevless_black_109
+  - first:
+      213: 3632978205798310330
+    second: sleevless_black_110
+  - first:
+      213: -3174808117640929655
+    second: sleevless_black_111
+  - first:
+      213: -6434360522351451159
+    second: sleevless_black_112
+  - first:
+      213: 5522621256046211031
+    second: sleevless_black_113
+  - first:
+      213: 5559462173092205685
+    second: sleevless_black_114
+  - first:
+      213: 1079004531061984404
+    second: sleevless_black_115
+  - first:
+      213: -8279230838625502258
+    second: sleevless_black_116
+  - first:
+      213: 1370947467520522951
+    second: sleevless_black_117
+  - first:
+      213: -2859790617902905848
+    second: sleevless_black_118
+  - first:
+      213: 3936791341084548636
+    second: sleevless_black_119
+  - first:
+      213: 5541710040677513147
+    second: sleevless_black_120
+  - first:
+      213: 864715952613815065
+    second: sleevless_black_121
+  - first:
+      213: -3521431802413363188
+    second: sleevless_black_122
+  - first:
+      213: -2806939970388056356
+    second: sleevless_black_123
+  - first:
+      213: -1854986154091670479
+    second: sleevless_black_124
+  - first:
+      213: 6487619552055191141
+    second: sleevless_black_125
+  - first:
+      213: -4069940379173227712
+    second: sleevless_black_126
+  - first:
+      213: -5095295475543649856
+    second: sleevless_black_127
+  - first:
+      213: -3584552814105734335
+    second: sleevless_black_128
+  - first:
+      213: -7933632314929725453
+    second: sleevless_black_129
+  - first:
+      213: 9201264689362812500
+    second: sleevless_black_130
+  - first:
+      213: 8427427922478570865
+    second: sleevless_black_131
+  - first:
+      213: -8265703084164672970
+    second: sleevless_black_132
+  - first:
+      213: -1428728070385246991
+    second: sleevless_black_133
+  - first:
+      213: -1291116498975172722
+    second: sleevless_black_134
+  - first:
+      213: 523414246133642341
+    second: sleevless_black_135
+  - first:
+      213: -6239323413729236182
+    second: sleevless_black_136
+  - first:
+      213: 8887187799784025772
+    second: sleevless_black_137
+  - first:
+      213: -3376120962407303663
+    second: sleevless_black_138
+  - first:
+      213: -3831673542006908472
+    second: sleevless_black_139
+  - first:
+      213: -8062533021646456128
+    second: sleevless_black_140
+  - first:
+      213: 4489536500966702123
+    second: sleevless_black_141
+  - first:
+      213: 6311315274124290014
+    second: sleevless_black_142
+  - first:
+      213: -5088009545452913071
+    second: sleevless_black_143
+  - first:
+      213: -249039317076387144
+    second: sleevless_black_144
+  - first:
+      213: 9013210799528279428
+    second: sleevless_black_145
+  - first:
+      213: -4488153186049074212
+    second: sleevless_black_146
+  - first:
+      213: 4102628722358999790
+    second: sleevless_black_147
+  - first:
+      213: -478939807263797860
+    second: sleevless_black_148
+  - first:
+      213: -281576255940175469
+    second: sleevless_black_149
+  - first:
+      213: -1278835492101239210
+    second: sleevless_black_150
+  - first:
+      213: -1977340551708985483
+    second: sleevless_black_151
+  - first:
+      213: 1683077369644800528
+    second: sleevless_black_152
+  - first:
+      213: -6367714696394758983
+    second: sleevless_black_153
+  - first:
+      213: -2066211522600246391
+    second: sleevless_black_154
+  - first:
+      213: -8168366212765377723
+    second: sleevless_black_155
+  - first:
+      213: -1909807558873428054
+    second: sleevless_black_156
+  - first:
+      213: -6672143992331970549
+    second: sleevless_black_157
+  - first:
+      213: 4865533616135159133
+    second: sleevless_black_158
+  - first:
+      213: -951410451346803345
+    second: sleevless_black_159
+  - first:
+      213: -6644787403286932405
+    second: sleevless_black_160
+  - first:
+      213: -2437447562813541077
+    second: sleevless_black_161
+  - first:
+      213: -4308962874886875304
+    second: sleevless_black_162
+  - first:
+      213: -769214949060988512
+    second: sleevless_black_163
+  - first:
+      213: 3380637073487392334
+    second: sleevless_black_164
+  - first:
+      213: -8516947455305512324
+    second: sleevless_black_165
+  - first:
+      213: -7040716878440302478
+    second: sleevless_black_166
+  - first:
+      213: 462608217093378018
+    second: sleevless_black_167
+  - first:
+      213: -5526158771011741262
+    second: sleevless_black_168
+  - first:
+      213: 2737177624962323094
+    second: sleevless_black_169
+  - first:
+      213: -4130231520563236165
+    second: sleevless_black_170
+  - first:
+      213: -2807873907233643641
+    second: sleevless_black_171
+  - first:
+      213: -5108375798189349590
+    second: sleevless_black_172
+  - first:
+      213: 3975469075596194252
+    second: sleevless_black_173
+  - first:
+      213: -979183278199494064
+    second: sleevless_black_174
+  - first:
+      213: -7044286655695269729
+    second: sleevless_black_175
+  - first:
+      213: -4492799401094881042
+    second: sleevless_black_176
+  - first:
+      213: 1913050751674359239
+    second: sleevless_black_177
+  - first:
+      213: 1846570325691732786
+    second: sleevless_black_178
+  - first:
+      213: -6863920158759980897
+    second: sleevless_black_179
+  - first:
+      213: 3124711606250236679
+    second: sleevless_black_180
+  - first:
+      213: 5426631242669328399
+    second: sleevless_black_181
+  - first:
+      213: 3258787180212161632
+    second: sleevless_black_182
+  - first:
+      213: 7501890553064845590
+    second: sleevless_black_183
+  - first:
+      213: -6287204250109982150
+    second: sleevless_black_184
+  - first:
+      213: -1365323324418252724
+    second: sleevless_black_185
+  - first:
+      213: -3175070054912019006
+    second: sleevless_black_186
+  - first:
+      213: 2395171066545708107
+    second: sleevless_black_187
+  - first:
+      213: 2089141748190016818
+    second: sleevless_black_188
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sleevless_black_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc590c81c2c3f87b0800000000000000
+      internalID: -5219887283007613492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd1500c01f8c060800000000000000
+      internalID: 6974089056830479859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe5b18c42d43dc0800000000000000
+      internalID: -3660069371109838980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df038b6843ec033a0800000000000000
+      internalID: -6687618721651347203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f6e4a813548a60800000000000000
+      internalID: 7675351030257088106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ce7371ff8789be0800000000000000
+      internalID: -1470292241334932352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3b5aaf8ad08830800000000000000
+      internalID: 4071494373716212843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b829ad5b718530800000000000000
+      internalID: 3855498398206046691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a8f70805194e810800000000000000
+      internalID: 1793718326539553439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c94e1df16a1cbe50800000000000000
+      internalID: 6826360143347599817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f580c2a4166e100800000000000000
+      internalID: 136903809875599175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e25d4e1edf5f40800000000000000
+      internalID: 5719534273511482537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40399117cab1c950800000000000000
+      internalID: 6467655904037253196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c1e48cef9f4bf0800000000000000
+      internalID: -337875608839011608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b372031d77143a1e0800000000000000
+      internalID: -2187833011105421509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce96c9fb061dfc0800000000000000
+      internalID: -3471887461646734226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c535813c9848730800000000000000
+      internalID: 4000473840031587454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f6c040c8d71d220800000000000000
+      internalID: 2508924507738894109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb372ab93ab443b90800000000000000
+      internalID: -7263097132978900037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d212605236237ad0800000000000000
+      internalID: -2705776953580711209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822db1755176a7a0800000000000000
+      internalID: -6366276411447238005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6c20da889fdab0800000000000000
+      internalID: -4981094940882998542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1eed106709d6f70800000000000000
+      internalID: 9182154051790234035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667574b4b5a087080800000000000000
+      internalID: -9189583652428228762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c91bfd0e5298c0800000000000000
+      internalID: -3994026505383851835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec23e43c72f72e20800000000000000
+      internalID: 3325893465113570535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab068f3bebfffe620800000000000000
+      internalID: 2805742287403376826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e5b68e123661e30800000000000000
+      internalID: 4473872277123587657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1038
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb827b60238b51750800000000000000
+      internalID: 6275124180811196603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1037
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7467e8282e926d0800000000000000
+      internalID: -3014629425184094264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1037
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346639ec2112102a0800000000000000
+      internalID: -6773095999929620925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1037
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d63bc33a7565e0800000000000000
+      internalID: -1916991703504990074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1037
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5f303de2f5df50800000000000000
+      internalID: 6905692704173154230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1037
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd68a3b635638b50800000000000000
+      internalID: 6594225565017337289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1037
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335b999cb9ce71ff0800000000000000
+      internalID: -65323515727203021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1037
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d8e2a7e56c10f90800000000000000
+      internalID: -6989087037623202520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1b464518a816e0800000000000000
+      internalID: -1866557236217963999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8680b3e7fe99cb0800000000000000
+      internalID: -4856587397707044650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c637d58aa68848660800000000000000
+      internalID: 7387179280467063660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7380b5f11d6ea710800000000000000
+      internalID: 1706421232723854204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb03ad5c7df6a30800000000000000
+      internalID: 4210821421383859669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 976
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6116cc06bed95c40800000000000000
+      internalID: 5501673293289492843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 976
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b08f40f4752bcde0800000000000000
+      internalID: -1311913682270191440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 975
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf4bc7aa11fd3cc0800000000000000
+      internalID: -3729559819606339647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8343f531b8cc62bb0800000000000000
+      internalID: -4961053041804495816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 976
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e1827883d4ef090800000000000000
+      internalID: -7998870982982361572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_46
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11e0d72c1218e30800000000000000
+      internalID: 4503918221552652722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 912
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c0fc18f93552a30800000000000000
+      internalID: 4189846972880849938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 912
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7f7410fcc606a40800000000000000
+      internalID: 5359403192906413984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 918
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b391b42cc3b64c540800000000000000
+      internalID: 5027260992754227515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 920
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb508a77eb70c9c90800000000000000
+      internalID: -7161840792793250372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_51
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 911
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f1613fd5d418070800000000000000
+      internalID: 8106845870149213971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 912
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a3fa4bd921d110800000000000000
+      internalID: 1283853390609360376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 911
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df1c65f7d0118760800000000000000
+      internalID: 7458260977623769045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_54
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 920
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361f18fed1717130800000000000000
+      internalID: 3562753982686238261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 911
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9681dac3e0eb7af0800000000000000
+      internalID: -397476873127229798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 912
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d210892a5b570d0800000000000000
+      internalID: -3425632231605850820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 911
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f7427eda338400800000000000000
+      internalID: 325168325175276037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 911
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab7979f0f14d8790800000000000000
+      internalID: -7526286899032786002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_59
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 912
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690ec5768ff4e030800000000000000
+      internalID: 3523221761477708133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eea993bc7678f70800000000000000
+      internalID: 9189427687215263253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5bae133d26226f0800000000000000
+      internalID: -710897131956030043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfefceca12990b0800000000000000
+      internalID: -5721504825003279420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c308a26a2da603690800000000000000
+      internalID: -7624476716174770116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36680bc6d08d431a0800000000000000
+      internalID: -6830597182644517277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_65
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505050970249a520800000000000000
+      internalID: 2713772850720821335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_66
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 847
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2985e0ca642134d10800000000000000
+      internalID: 2108549145283156114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 848
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b40916e3c72e77b0800000000000000
+      internalID: -5224694795370691408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_68
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503954a36ffcfe4e0800000000000000
+      internalID: -1950111457181592827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_69
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833dec25a9a74cf20800000000000000
+      internalID: 3442010818450740024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_70
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61094ca305e746990800000000000000
+      internalID: -7393645805187067882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_71
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecfd7cc62e272d60800000000000000
+      internalID: 7865306018400304359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_72
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a39fa1179f917c0800000000000000
+      internalID: -4099971721564964317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_73
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525e800bac4753c0800000000000000
+      internalID: -4370940616007331236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_74
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8db1f5a1357250800000000000000
+      internalID: 5941709872180333494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_75
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db292d0707bdffb10800000000000000
+      internalID: 2017572434060939965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_76
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6fcb97e89ee07b0800000000000000
+      internalID: -5256006916957735190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_77
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1111efa24512a7420800000000000000
+      internalID: 2628449977906368785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_78
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea431cc0e684fc6f0800000000000000
+      internalID: -662230982702582610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_79
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53334f15c9b079b80800000000000000
+      internalID: -8388223014936497355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 719
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d4c9b987dafd50800000000000000
+      internalID: 6771961976232138892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 718
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770583e60176e860800000000000000
+      internalID: 7558853298988844922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_82
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726aa22124f25fac0800000000000000
+      internalID: -3822096747934865881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_83
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a588843c66c17a0800000000000000
+      internalID: -6405131581106136562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_84
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32feee2e2550d4820800000000000000
+      internalID: 2903983188276604707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_85
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 718
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b78925a7ee63e2e0800000000000000
+      internalID: -2097711060237056073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_86
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f00ab9ebd7a35f0800000000000000
+      internalID: -776169728159772858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_87
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6529c084cef070800000000000000
+      internalID: 8142161233741967150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_88
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f34f41a515e8db0800000000000000
+      internalID: -4787799906507800818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_89
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7644fd5a4f2f8bb0800000000000000
+      internalID: -4931671070497028483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_90
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b16dab6d07d821c0800000000000000
+      internalID: -4528132972679962183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_91
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa6a5505a38fba20800000000000000
+      internalID: 3080325414927362735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 655
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a791e3558f8cdc40800000000000000
+      internalID: 5538459444559583136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_93
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdef684f6b9cb910800000000000000
+      internalID: 1854528048828771785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_94
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e68b513175ec10800000000000000
+      internalID: 2082194859531626853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89630fc3e985012c0800000000000000
+      internalID: -4462969794073708904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_96
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430154bb20afda140800000000000000
+      internalID: 4732713673075003444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eef9d7425d98760800000000000000
+      internalID: 7460728610419109419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_98
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 591
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081892ee306c4d70800000000000000
+      internalID: 9028697176176859147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_99
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 590
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f58b3e03eed3dc0800000000000000
+      internalID: -3657505428608622712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_100
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f808fa3f296d030800000000000000
+      internalID: 3519161734155767674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bb7010703327be0800000000000000
+      internalID: -1481065222276400292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2617cc79ee0270800000000000000
+      internalID: 8218763092123070187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_103
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 590
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86250695d1428bc0800000000000000
+      internalID: -3782388351437035892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f32af4a1e5a45f0800000000000000
+      internalID: -771700919042424947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_105
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b5f007423d21e50800000000000000
+      internalID: 6778712542598355735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_106
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef919cde7be904d0800000000000000
+      internalID: -3167741932779495444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788ab1ec37517330800000000000000
+      internalID: 3706839887299381375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_108
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 525
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11435d694b833d60800000000000000
+      internalID: 7868786121429434650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 525
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbf32599e2c6e030800000000000000
+      internalID: 3523718066949323723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab128590e6eea6230800000000000000
+      internalID: 3632978205798310330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_111
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e5cfd76d0d0f3d0800000000000000
+      internalID: -3174808117640929655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_112
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e174123f84b6a0800000000000000
+      internalID: -6434360522351451159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_113
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 463
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe7a3b5ca44ac40800000000000000
+      internalID: 5522621256046211031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_114
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 461
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574d161246d272d40800000000000000
+      internalID: 5559462173092205685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_115
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 463
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c8cf877e469fe00800000000000000
+      internalID: 1079004531061984404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_116
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 463
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7442ea634a1d80800000000000000
+      internalID: -8279230838625502258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca38474575960310800000000000000
+      internalID: 1370947467520522951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_118
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80607e7b59bff48d0800000000000000
+      internalID: -2859790617902905848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_119
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9d20edda42a630800000000000000
+      internalID: 3936791341084548636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_120
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77cc6bbeb18ec40800000000000000
+      internalID: 5541710040677513147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_121
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 398
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f823d396100c00800000000000000
+      internalID: 864715952613815065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 399
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00536cde6c512fc0800000000000000
+      internalID: -3521431802413363188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_123
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6ac2ff7febb09d0800000000000000
+      internalID: -2806939970388056356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_124
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 400
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341916cbe3c146e0800000000000000
+      internalID: -1854986154091670479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e0261c97a80a50800000000000000
+      internalID: 6487619552055191141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_126
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 333
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0437c52e9caa487c0800000000000000
+      internalID: -4069940379173227712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_127
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 335
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d092d2cfd949b0800000000000000
+      internalID: -5095295475543649856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 335
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d994153c114ec0800000000000000
+      internalID: -3584552814105734335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffbd0a917316e190800000000000000
+      internalID: -7933632314929725453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_130
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eb0dd0c7571bf70800000000000000
+      internalID: 9201264689362812500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_131
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 270
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1b898b0d34f470800000000000000
+      internalID: 8427427922478570865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 269
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329389a6d25a4d80800000000000000
+      internalID: -8265703084164672970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_133
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 269
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcde04c3632c2ce0800000000000000
+      internalID: -1428728070385246991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8750f28268051ee0800000000000000
+      internalID: -1291116498975172722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_135
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564bc23db7a834700800000000000000
+      internalID: 523414246133642341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_136
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b24ed99687969a0800000000000000
+      internalID: -6239323413729236182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_137
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeef42b732a55b70800000000000000
+      internalID: 8887187799784025772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_138
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11676f44fdb9521d0800000000000000
+      internalID: -3376120962407303663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_139
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95a61f63923dac0800000000000000
+      internalID: -3831673542006908472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_140
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caf7e61fe02c1090800000000000000
+      internalID: -8062533021646456128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_141
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c354a39a90e4e30800000000000000
+      internalID: 4489536500966702123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_142
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7eca39dcb469750800000000000000
+      internalID: 6311315274124290014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_143
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7b7d9642c369b0800000000000000
+      internalID: -5088009545452913071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_144
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba5e828f0c3b8cf0800000000000000
+      internalID: -249039317076387144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_145
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48df897d77b551d70800000000000000
+      internalID: 9013210799528279428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_146
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd100e470e6b1c0800000000000000
+      internalID: -4488153186049074212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_147
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead58916177fe830800000000000000
+      internalID: 4102628722358999790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_148
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4f3768c67a59f0800000000000000
+      internalID: -478939807263797860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_149
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399508713e3a71cf0800000000000000
+      internalID: -281576255940175469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_150
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec42f35e9a04ee0800000000000000
+      internalID: -1278835492101239210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_151
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577396f9e331f84e0800000000000000
+      internalID: -1977340551708985483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_152
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 207
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5d2b43fd7b5710800000000000000
+      internalID: 1683077369644800528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_153
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b42b52a83551a7a0800000000000000
+      internalID: -6367714696394758983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_154
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e79441975353e0800000000000000
+      internalID: -2066211522600246391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_155
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 207
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b11d4153224ae80800000000000000
+      internalID: -8168366212765377723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_156
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4effc4200f75e0800000000000000
+      internalID: -1909807558873428054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_157
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 144
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08dbc6b368c763a0800000000000000
+      internalID: -6672143992331970549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_158
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d35709b09d58340800000000000000
+      internalID: 4865533616135159133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_159
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6531eb3c39ebc2f0800000000000000
+      internalID: -951410451346803345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b449713ff09f8c3a0800000000000000
+      internalID: -6644787403286932405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257bd31b527c2ed0800000000000000
+      internalID: -2437447562813541077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_162
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857950c581d7334c0800000000000000
+      internalID: -4308962874886875304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_163
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1bc4d44133355f0800000000000000
+      internalID: -769214949060988512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_164
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e6bb7c18f6aee20800000000000000
+      internalID: 3380637073487392334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_165
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a09d30a69bdc980800000000000000
+      internalID: -8516947455305512324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_166
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f7786d495a4e90800000000000000
+      internalID: -7040716878440302478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_167
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef0702f8b38b6600800000000000000
+      internalID: 462608217093378018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_168
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99f6960e32f43b0800000000000000
+      internalID: -5526158771011741262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_169
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d6073c886cf520800000000000000
+      internalID: 2737177624962323094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f4b0a0587ea6c0800000000000000
+      internalID: -4130231520563236165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7832041ee8d6809d0800000000000000
+      internalID: -2807873907233643641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a8b1e6476b19b0800000000000000
+      internalID: -5108375798189349590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13672bf04bb2730800000000000000
+      internalID: 3975469075596194252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aaae41ffd3962f0800000000000000
+      internalID: -979183278199494064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_175
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 79
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90524fdb9aad3e90800000000000000
+      internalID: -7044286655695269729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_176
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e6a2afbe56a1c0800000000000000
+      internalID: -4492799401094881042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_177
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd18dad5858c8a10800000000000000
+      internalID: 1913050751674359239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_178
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 79
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23312ab7de550a910800000000000000
+      internalID: 1846570325691732786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_179
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f7727bf47eb0a0800000000000000
+      internalID: -6863920158759980897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_180
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be51486a43d5b20800000000000000
+      internalID: 3124711606250236679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_181
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08875a1d544f4b40800000000000000
+      internalID: 5426631242669328399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_182
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c8423bca9893d20800000000000000
+      internalID: 3258787180212161632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_183
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f94716b11c1860800000000000000
+      internalID: 7501890553064845590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_184
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a4ed9ab0d5fb8a0800000000000000
+      internalID: -6287204250109982150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_185
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ae749ba56d0de0800000000000000
+      internalID: -1365323324418252724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_186
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53df77b92efe3d0800000000000000
+      internalID: -3175070054912019006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_187
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 19
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c10c5156b5d3120800000000000000
+      internalID: 2395171066545708107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_black_188
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 8
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235fd4ae95f1efc10800000000000000
+      internalID: 2089141748190016818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

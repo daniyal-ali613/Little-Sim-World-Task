@@ -1,0 +1,4652 @@
+fileFormatVersion: 2
+guid: 714252cb00b882b448d592c695ff7f1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9129349153967931175
+    second: sleevless_red_0
+  - first:
+      213: -6470163817786193469
+    second: sleevless_red_1
+  - first:
+      213: 1169531514801760792
+    second: sleevless_red_2
+  - first:
+      213: 2352091678321888875
+    second: sleevless_red_3
+  - first:
+      213: -8638632724720310917
+    second: sleevless_red_4
+  - first:
+      213: 8296368937517681797
+    second: sleevless_red_5
+  - first:
+      213: 3303341330637037987
+    second: sleevless_red_6
+  - first:
+      213: -2029466823486960008
+    second: sleevless_red_7
+  - first:
+      213: 4840712924282782855
+    second: sleevless_red_8
+  - first:
+      213: 8889279775072301861
+    second: sleevless_red_9
+  - first:
+      213: -1710889456875570115
+    second: sleevless_red_10
+  - first:
+      213: 5280090850536308462
+    second: sleevless_red_11
+  - first:
+      213: -2120030018241474610
+    second: sleevless_red_12
+  - first:
+      213: 8883781393946162311
+    second: sleevless_red_13
+  - first:
+      213: -6673238336157252426
+    second: sleevless_red_14
+  - first:
+      213: -8328465385250888886
+    second: sleevless_red_15
+  - first:
+      213: 4167350100088603180
+    second: sleevless_red_16
+  - first:
+      213: -3463695470708468278
+    second: sleevless_red_17
+  - first:
+      213: 447520637292440994
+    second: sleevless_red_18
+  - first:
+      213: -4404945962707715194
+    second: sleevless_red_19
+  - first:
+      213: -3084240931331172073
+    second: sleevless_red_20
+  - first:
+      213: -5011948248083486189
+    second: sleevless_red_21
+  - first:
+      213: -5287689483860829769
+    second: sleevless_red_22
+  - first:
+      213: 7941196262980257570
+    second: sleevless_red_23
+  - first:
+      213: -2905756935521994056
+    second: sleevless_red_24
+  - first:
+      213: 2094045738034427227
+    second: sleevless_red_25
+  - first:
+      213: 2346958252816777986
+    second: sleevless_red_26
+  - first:
+      213: -3695266408290653105
+    second: sleevless_red_27
+  - first:
+      213: -7939359888496332747
+    second: sleevless_red_28
+  - first:
+      213: 521705044924427001
+    second: sleevless_red_29
+  - first:
+      213: -7270178902144960843
+    second: sleevless_red_30
+  - first:
+      213: 1600256844159694010
+    second: sleevless_red_31
+  - first:
+      213: 4717746777906404933
+    second: sleevless_red_32
+  - first:
+      213: -1838637632862466375
+    second: sleevless_red_33
+  - first:
+      213: -5984354085106661125
+    second: sleevless_red_34
+  - first:
+      213: -4894964228698002203
+    second: sleevless_red_35
+  - first:
+      213: 4516680459014294391
+    second: sleevless_red_36
+  - first:
+      213: -2200511094444414744
+    second: sleevless_red_37
+  - first:
+      213: -8686944938789261250
+    second: sleevless_red_38
+  - first:
+      213: 4080444816713409581
+    second: sleevless_red_39
+  - first:
+      213: 2885534591348706691
+    second: sleevless_red_40
+  - first:
+      213: 5065059054555632901
+    second: sleevless_red_41
+  - first:
+      213: -3438898143331788042
+    second: sleevless_red_42
+  - first:
+      213: -7524056995133976983
+    second: sleevless_red_43
+  - first:
+      213: 396087148940707404
+    second: sleevless_red_44
+  - first:
+      213: 1892269015183623810
+    second: sleevless_red_45
+  - first:
+      213: 2743209962919760876
+    second: sleevless_red_46
+  - first:
+      213: 9069588973568986804
+    second: sleevless_red_47
+  - first:
+      213: -528660986914903134
+    second: sleevless_red_48
+  - first:
+      213: 1896675996484730862
+    second: sleevless_red_49
+  - first:
+      213: -4282587056091369307
+    second: sleevless_red_50
+  - first:
+      213: 2984879729495922404
+    second: sleevless_red_51
+  - first:
+      213: -7299808374158030414
+    second: sleevless_red_52
+  - first:
+      213: -652551254651774978
+    second: sleevless_red_53
+  - first:
+      213: 724925543228577232
+    second: sleevless_red_54
+  - first:
+      213: 7968994943458731382
+    second: sleevless_red_55
+  - first:
+      213: 7875132987947949774
+    second: sleevless_red_56
+  - first:
+      213: 4440755863617729334
+    second: sleevless_red_57
+  - first:
+      213: -4879341142512125501
+    second: sleevless_red_58
+  - first:
+      213: -8588233092920168315
+    second: sleevless_red_59
+  - first:
+      213: -6407924334839914856
+    second: sleevless_red_60
+  - first:
+      213: 2460345928438402749
+    second: sleevless_red_61
+  - first:
+      213: 5461183375561893076
+    second: sleevless_red_62
+  - first:
+      213: -6958705145322377433
+    second: sleevless_red_63
+  - first:
+      213: 7911565323460811950
+    second: sleevless_red_64
+  - first:
+      213: 650407295669937945
+    second: sleevless_red_65
+  - first:
+      213: -7811374328225782693
+    second: sleevless_red_66
+  - first:
+      213: 3211309241910782041
+    second: sleevless_red_67
+  - first:
+      213: -5327433244079620511
+    second: sleevless_red_68
+  - first:
+      213: 199654035165773676
+    second: sleevless_red_69
+  - first:
+      213: 8707768869443926462
+    second: sleevless_red_70
+  - first:
+      213: 9198192424251318783
+    second: sleevless_red_71
+  - first:
+      213: 6437709891048855575
+    second: sleevless_red_72
+  - first:
+      213: 3399155372854516978
+    second: sleevless_red_73
+  - first:
+      213: 786871731648704613
+    second: sleevless_red_74
+  - first:
+      213: 7275344285543521387
+    second: sleevless_red_75
+  - first:
+      213: 6179724257186471443
+    second: sleevless_red_76
+  - first:
+      213: 3250493903377243942
+    second: sleevless_red_77
+  - first:
+      213: -7752791587553003097
+    second: sleevless_red_78
+  - first:
+      213: -8460079209826829636
+    second: sleevless_red_79
+  - first:
+      213: 6363340619939341163
+    second: sleevless_red_80
+  - first:
+      213: -1161853009609543787
+    second: sleevless_red_81
+  - first:
+      213: -1187086481865878602
+    second: sleevless_red_82
+  - first:
+      213: -5514216221454500037
+    second: sleevless_red_83
+  - first:
+      213: -7275314102666893552
+    second: sleevless_red_84
+  - first:
+      213: 3173582018143009485
+    second: sleevless_red_85
+  - first:
+      213: -8388917050330003348
+    second: sleevless_red_86
+  - first:
+      213: -4457933481344098697
+    second: sleevless_red_87
+  - first:
+      213: -3196290268926602754
+    second: sleevless_red_88
+  - first:
+      213: 1512819560487590003
+    second: sleevless_red_89
+  - first:
+      213: 567176208296036527
+    second: sleevless_red_90
+  - first:
+      213: 559018223272039732
+    second: sleevless_red_91
+  - first:
+      213: -5258353164298088077
+    second: sleevless_red_92
+  - first:
+      213: 6668091367765570929
+    second: sleevless_red_93
+  - first:
+      213: 122339869925421220
+    second: sleevless_red_94
+  - first:
+      213: -7006227256919675442
+    second: sleevless_red_95
+  - first:
+      213: -4366828120177134178
+    second: sleevless_red_96
+  - first:
+      213: -3946301451184325842
+    second: sleevless_red_97
+  - first:
+      213: -5919341517289394783
+    second: sleevless_red_98
+  - first:
+      213: -7998282014679342364
+    second: sleevless_red_99
+  - first:
+      213: -3443649011065740626
+    second: sleevless_red_100
+  - first:
+      213: 3120954105068141657
+    second: sleevless_red_101
+  - first:
+      213: 9167434030931189809
+    second: sleevless_red_102
+  - first:
+      213: 6911284763802966358
+    second: sleevless_red_103
+  - first:
+      213: 7107945831860229663
+    second: sleevless_red_104
+  - first:
+      213: 5629391196759340041
+    second: sleevless_red_105
+  - first:
+      213: -4542650658339720661
+    second: sleevless_red_106
+  - first:
+      213: -6070165692124696609
+    second: sleevless_red_107
+  - first:
+      213: -3155817384245777609
+    second: sleevless_red_108
+  - first:
+      213: -7550655551658436812
+    second: sleevless_red_109
+  - first:
+      213: 683568425332560692
+    second: sleevless_red_110
+  - first:
+      213: -8736433900352662958
+    second: sleevless_red_111
+  - first:
+      213: 274112592101571604
+    second: sleevless_red_112
+  - first:
+      213: -7965358249941187720
+    second: sleevless_red_113
+  - first:
+      213: -8943021281617601448
+    second: sleevless_red_114
+  - first:
+      213: -3553598289721677580
+    second: sleevless_red_115
+  - first:
+      213: -2815691751196459302
+    second: sleevless_red_116
+  - first:
+      213: -8184467817750379001
+    second: sleevless_red_117
+  - first:
+      213: -6889955176049175827
+    second: sleevless_red_118
+  - first:
+      213: -204358959098301184
+    second: sleevless_red_119
+  - first:
+      213: 3874790403870501814
+    second: sleevless_red_120
+  - first:
+      213: 2170971397760138137
+    second: sleevless_red_121
+  - first:
+      213: -3803751119573090399
+    second: sleevless_red_122
+  - first:
+      213: 8566124314899611963
+    second: sleevless_red_123
+  - first:
+      213: 2846750551909865035
+    second: sleevless_red_124
+  - first:
+      213: 2031580412677907891
+    second: sleevless_red_125
+  - first:
+      213: 5001842778963761814
+    second: sleevless_red_126
+  - first:
+      213: 1568545248563876157
+    second: sleevless_red_127
+  - first:
+      213: -6002318663832953304
+    second: sleevless_red_128
+  - first:
+      213: -4405317061605579456
+    second: sleevless_red_129
+  - first:
+      213: 4366089021586154256
+    second: sleevless_red_130
+  - first:
+      213: 3493886875544400244
+    second: sleevless_red_131
+  - first:
+      213: 9114773168439250562
+    second: sleevless_red_132
+  - first:
+      213: -7849126626649820207
+    second: sleevless_red_133
+  - first:
+      213: 4371679390967901465
+    second: sleevless_red_134
+  - first:
+      213: 7716144521550031107
+    second: sleevless_red_135
+  - first:
+      213: -7315175091506288577
+    second: sleevless_red_136
+  - first:
+      213: -3128429783216962393
+    second: sleevless_red_137
+  - first:
+      213: 141926674400710557
+    second: sleevless_red_138
+  - first:
+      213: -6405738972663435777
+    second: sleevless_red_139
+  - first:
+      213: -4429864924640693382
+    second: sleevless_red_140
+  - first:
+      213: 4213362009245858228
+    second: sleevless_red_141
+  - first:
+      213: -4698143343273684443
+    second: sleevless_red_142
+  - first:
+      213: -5668403462378257355
+    second: sleevless_red_143
+  - first:
+      213: -5104308739333732393
+    second: sleevless_red_144
+  - first:
+      213: -37678162270762311
+    second: sleevless_red_145
+  - first:
+      213: -6257503408228841095
+    second: sleevless_red_146
+  - first:
+      213: -9069222673001164657
+    second: sleevless_red_147
+  - first:
+      213: -4056193633813496328
+    second: sleevless_red_148
+  - first:
+      213: -1950790762023338009
+    second: sleevless_red_149
+  - first:
+      213: -2020434293797563775
+    second: sleevless_red_150
+  - first:
+      213: -8340244183463099109
+    second: sleevless_red_151
+  - first:
+      213: -8974876279105699390
+    second: sleevless_red_152
+  - first:
+      213: 8983456421617895247
+    second: sleevless_red_153
+  - first:
+      213: -8130320776966405949
+    second: sleevless_red_154
+  - first:
+      213: 5649311878849958474
+    second: sleevless_red_155
+  - first:
+      213: -6851613353544357708
+    second: sleevless_red_156
+  - first:
+      213: 3631255706321521275
+    second: sleevless_red_157
+  - first:
+      213: 2892296275788349675
+    second: sleevless_red_158
+  - first:
+      213: -2513732433507129765
+    second: sleevless_red_159
+  - first:
+      213: 3265120740230432811
+    second: sleevless_red_160
+  - first:
+      213: -4827587823846385654
+    second: sleevless_red_161
+  - first:
+      213: 5003827846650777622
+    second: sleevless_red_162
+  - first:
+      213: -5213332250587745096
+    second: sleevless_red_163
+  - first:
+      213: -619354659814762335
+    second: sleevless_red_164
+  - first:
+      213: 511089533953028925
+    second: sleevless_red_165
+  - first:
+      213: 7423787276553792315
+    second: sleevless_red_166
+  - first:
+      213: 2962272270519106290
+    second: sleevless_red_167
+  - first:
+      213: 4850862458550594274
+    second: sleevless_red_168
+  - first:
+      213: -6000719782244801269
+    second: sleevless_red_169
+  - first:
+      213: -9159705388509660646
+    second: sleevless_red_170
+  - first:
+      213: 5626457426214177519
+    second: sleevless_red_171
+  - first:
+      213: -2324597396305404621
+    second: sleevless_red_172
+  - first:
+      213: -2722842987222152389
+    second: sleevless_red_173
+  - first:
+      213: -3479842152185919378
+    second: sleevless_red_174
+  - first:
+      213: -8336676350925294372
+    second: sleevless_red_175
+  - first:
+      213: 3311679142112967987
+    second: sleevless_red_176
+  - first:
+      213: 3561070542287870962
+    second: sleevless_red_177
+  - first:
+      213: 7063112141374708064
+    second: sleevless_red_178
+  - first:
+      213: 6942323902973859961
+    second: sleevless_red_179
+  - first:
+      213: 7663189706660691943
+    second: sleevless_red_180
+  - first:
+      213: -8769323329903905477
+    second: sleevless_red_181
+  - first:
+      213: -7485703034770744991
+    second: sleevless_red_182
+  - first:
+      213: 2243331153527188824
+    second: sleevless_red_183
+  - first:
+      213: -4009972365473518816
+    second: sleevless_red_184
+  - first:
+      213: -4989825269320647739
+    second: sleevless_red_185
+  - first:
+      213: -5726319727975131238
+    second: sleevless_red_186
+  - first:
+      213: -7178010749411170912
+    second: sleevless_red_187
+  - first:
+      213: 8767941007112250244
+    second: sleevless_red_188
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sleevless_red_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f75c8afa6f1be70800000000000000
+      internalID: 9129349153967931175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c442c94c5536a0800000000000000
+      internalID: -6470163817786193469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a226d57b20b3010800000000000000
+      internalID: 1169531514801760792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e47856bee44a020800000000000000
+      internalID: 2352091678321888875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b752bf96e496d1880800000000000000
+      internalID: -8638632724720310917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8356b79f922370800000000000000
+      internalID: 8296368937517681797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ac783073d7dd20800000000000000
+      internalID: 3303341330637037987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e8e963da2e5d3e0800000000000000
+      internalID: -2029466823486960008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7848487e1caad2340800000000000000
+      internalID: 4840712924282782855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523bf36abd01d5b70800000000000000
+      internalID: 8889279775072301861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c78f88a13b148e0800000000000000
+      internalID: -1710889456875570115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb10847a6a64940800000000000000
+      internalID: 5280090850536308462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf4d894ee32492e0800000000000000
+      internalID: -2120030018241474610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1231
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b2680c18894b70800000000000000
+      internalID: 8883781393946162311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b404dfe615e363a0800000000000000
+      internalID: -6673238336157252426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ebf3bbd85b6c80800000000000000
+      internalID: -8328465385250888886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22487226d665d930800000000000000
+      internalID: 4167350100088603180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5da42225b7eefc0800000000000000
+      internalID: -3463695470708468278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade87706a9e53600800000000000000
+      internalID: 447520637292440994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf30e3cfc7ed2c0800000000000000
+      internalID: -4404945962707715194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191946c6339235d0800000000000000
+      internalID: -3084240931331172073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa7507f9bf17ab0800000000000000
+      internalID: -5011948248083486189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b918e70e6a5e96b0800000000000000
+      internalID: -5287689483860829769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227099a4debc43e60800000000000000
+      internalID: 7941196262980257570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7596667daca7d0800000000000000
+      internalID: -2905756935521994056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5576f6018b8f0d10800000000000000
+      internalID: 2094045738034427227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c0d1a812129020800000000000000
+      internalID: 2346958252816777986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce66fa7c6c7bcc0800000000000000
+      internalID: -3695266408290653105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1038
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530f036fe3ab1d190800000000000000
+      internalID: -7939359888496332747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1037
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faef3869f77d3700800000000000000
+      internalID: 521705044924427001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1037
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63c1cbec22b1b90800000000000000
+      internalID: -7270178902144960843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1037
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b6890f11453610800000000000000
+      internalID: 1600256844159694010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1037
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eda55e2bdc87140800000000000000
+      internalID: 4717746777906404933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1037
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be419e70d8db76e0800000000000000
+      internalID: -1838637632862466375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1037
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf84f038aad43fca0800000000000000
+      internalID: -5984354085106661125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1037
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec2638f7f7911cb0800000000000000
+      internalID: -4894964228698002203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bce7372f87eae30800000000000000
+      internalID: 4516680459014294391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a55381d63671e0800000000000000
+      internalID: -2200511094444414744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b6148a95c17780800000000000000
+      internalID: -8686944938789261250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2469c111f6a0a830800000000000000
+      internalID: 4080444816713409581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d01703c6a7b0820800000000000000
+      internalID: 2885534591348706691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 976
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051a21df54ba4640800000000000000
+      internalID: 5065059054555632901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 976
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa55f3db549640d0800000000000000
+      internalID: -3438898143331788042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 975
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0f3fe60e259790800000000000000
+      internalID: -7524056995133976983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4645b4d92f2f7500800000000000000
+      internalID: 396087148940707404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 976
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868f75c4a0b24a10800000000000000
+      internalID: 1892269015183623810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_46
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 975
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce315285de6d11620800000000000000
+      internalID: 2743209962919760876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 912
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be01646e17addd70800000000000000
+      internalID: 9069588973568986804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 912
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab645422a1d9a8f0800000000000000
+      internalID: -528660986914903134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 918
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef7b7015c8525a10800000000000000
+      internalID: 1896675996484730862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 920
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0fcf933c13194c0800000000000000
+      internalID: -4282587056091369307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_51
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 911
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65ed5ac4c6c6920800000000000000
+      internalID: 2984879729495922404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 912
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b983e1b5fed1ba90800000000000000
+      internalID: -7299808374158030414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 911
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7debc571ca1f6f0800000000000000
+      internalID: -652551254651774978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_54
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 920
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51fb4d0f37f0a00800000000000000
+      internalID: 724925543228577232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 911
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675edb5fdae879e60800000000000000
+      internalID: 7968994943458731382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 912
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece19917ab71a4d60800000000000000
+      internalID: 7875132987947949774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 911
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633fa290eebb0ad30800000000000000
+      internalID: 4440755863617729334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 911
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9bd9e2519194cb0800000000000000
+      internalID: -4879341142512125501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_59
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 912
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5803d30218770d880800000000000000
+      internalID: -8588233092920168315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1942a4ca7217a0800000000000000
+      internalID: -6407924334839914856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe46212697e42220800000000000000
+      internalID: 2460345928438402749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a2a178550acb40800000000000000
+      internalID: 5461183375561893076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f60640a86bd6f90800000000000000
+      internalID: -6958705145322377433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac1e229eb68bcd60800000000000000
+      internalID: 7911565323460811950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_65
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917aab94df5b60900800000000000000
+      internalID: 650407295669937945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_66
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 847
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542f765f6c689390800000000000000
+      internalID: -7811374328225782693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 848
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9586504cdbcd09c20800000000000000
+      internalID: 3211309241910782041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_68
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ef602c0b72116b0800000000000000
+      internalID: -5327433244079620511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_69
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7704894055c200800000000000000
+      internalID: 199654035165773676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_70
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 847
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9f869a6a538d870800000000000000
+      internalID: 8707768869443926462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_71
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16037964b86af70800000000000000
+      internalID: 9198192424251318783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_72
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185cf69907575950800000000000000
+      internalID: 6437709891048855575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_73
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc9a575dc93c2f20800000000000000
+      internalID: 3399155372854516978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_74
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b7b0cba78bea00800000000000000
+      internalID: 786871731648704613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_75
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c5d7ec41737f460800000000000000
+      internalID: 7275344285543521387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_76
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ed677687ac2c550800000000000000
+      internalID: 6179724257186471443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_77
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f9f57bbf21c1d20800000000000000
+      internalID: 3250493903377243942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_78
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 783
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9344e802d886490800000000000000
+      internalID: -7752791587553003097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_79
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 783
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaba9638c2c79a80800000000000000
+      internalID: -8460079209826829636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 719
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b636c4454902f4850800000000000000
+      internalID: 6363340619939341163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 718
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2101f7d440efe0800000000000000
+      internalID: -1161853009609543787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_82
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b357ba522f968fe0800000000000000
+      internalID: -1187086481865878602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_83
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ff189ef819973b0800000000000000
+      internalID: -5514216221454500037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_84
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176621be54e80b90800000000000000
+      internalID: -7275314102666893552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_85
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 718
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3bf8f704da0c20800000000000000
+      internalID: 3173582018143009485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_86
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68ccdc9364949b80800000000000000
+      internalID: -8388917050330003348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_87
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1a2c2e1d3222c0800000000000000
+      internalID: -4457933481344098697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_88
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 719
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef197916fee74a3d0800000000000000
+      internalID: -3196290268926602754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_89
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781020006d9ef410800000000000000
+      internalID: 1512819560487590003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_90
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8c984a1c30fd700800000000000000
+      internalID: 567176208296036527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_91
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435991dbc1802c700800000000000000
+      internalID: 559018223272039732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 655
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371167238a39607b0800000000000000
+      internalID: -5258353164298088077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_93
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f38915c1d98c50800000000000000
+      internalID: 6668091367765570929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_94
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b5c8a673a2b100800000000000000
+      internalID: 122339869925421220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecda4af2e61e4ce90800000000000000
+      internalID: -7006227256919675442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_96
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b7ad06f8e563c0800000000000000
+      internalID: -4366828120177134178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 656
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bbc811dbbeb39c0800000000000000
+      internalID: -3946301451184325842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_98
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 591
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad6eb580464adda0800000000000000
+      internalID: -5919341517289394783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_99
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 590
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e264a562e4600190800000000000000
+      internalID: -7998282014679342364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_100
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea22d4c3873b530d0800000000000000
+      internalID: -3443649011065740626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c32e8193bdf4b20800000000000000
+      internalID: 3120954105068141657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1302b731ea4493f70800000000000000
+      internalID: 9167434030931189809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_103
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 590
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599b0800e0d9ef50800000000000000
+      internalID: 6911284763802966358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165fb6131f74a260800000000000000
+      internalID: 7107945831860229663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_105
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9043d88b77d9f1e40800000000000000
+      internalID: 5629391196759340041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_106
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 591
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2277f25b4345f0c0800000000000000
+      internalID: -4542650658339720661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe421d67072cba0800000000000000
+      internalID: -6070165692124696609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_108
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 525
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b270c2fc84434d0800000000000000
+      internalID: -3155817384245777609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 525
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375116e7cea63790800000000000000
+      internalID: -7550655551658436812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433de937cd58c7900800000000000000
+      internalID: 683568425332560692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_111
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529ccdb7a3f1c680800000000000000
+      internalID: -8736433900352662958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_112
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 526
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cfca043f7ddc300800000000000000
+      internalID: 274112592101571604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_113
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 463
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873478bbfdc557190800000000000000
+      internalID: -7965358249941187720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_114
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 461
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9c6ac68104e380800000000000000
+      internalID: -8943021281617601448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_115
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 463
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f824baee251faec0800000000000000
+      internalID: -3553598289721677580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_116
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 463
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeffec3547ace8d0800000000000000
+      internalID: -2815691751196459302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064f5702edea6e80800000000000000
+      internalID: -8184467817750379001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_118
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2993d9546f160a0800000000000000
+      internalID: -6889955176049175827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_119
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f6440c98f92df0800000000000000
+      internalID: -204358959098301184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_120
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb2bc1c75506c530800000000000000
+      internalID: 3874790403870501814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_121
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 398
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb605ebf6d02e10800000000000000
+      internalID: 2170971397760138137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 399
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aff9d7828c563bc0800000000000000
+      internalID: -3803751119573090399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_123
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b318d6bddacf0e670800000000000000
+      internalID: 8566124314899611963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_124
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 400
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b461cb25b80b18720800000000000000
+      internalID: 2846750551909865035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ee4e1f9f913c10800000000000000
+      internalID: 2031580412677907891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_126
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 333
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69adc7ea18d1a6540800000000000000
+      internalID: 5001842778963761814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_127
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 335
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d6c2d79794c510800000000000000
+      internalID: 1568545248563876157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 335
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1a851afa73bca0800000000000000
+      internalID: -6002318663832953304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045280c097b2dd2c0800000000000000
+      internalID: -4405317061605579456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_130
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013206525d6779c30800000000000000
+      internalID: 4366089021586154256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_131
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 270
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47139361a97cc7030800000000000000
+      internalID: 3493886875544400244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 269
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e451197ed2e7e70800000000000000
+      internalID: 9114773168439250562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_133
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 269
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d33a756bec421390800000000000000
+      internalID: -7849126626649820207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da9827e335bac30800000000000000
+      internalID: 4371679390967901465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_135
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309e09a7f80451b60800000000000000
+      internalID: 7716144521550031107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_136
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386bf003074b7a90800000000000000
+      internalID: -7315175091506288577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_137
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c992ffa59594d0800000000000000
+      internalID: -3128429783216962393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_138
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8ec3fe8938f100800000000000000
+      internalID: 141926674400710557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_139
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd258ae75e3a17a0800000000000000
+      internalID: -6405738972663435777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_140
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7334db4255f582c0800000000000000
+      internalID: -4429864924640693382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_141
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b93f8c6ed87a30800000000000000
+      internalID: 4213362009245858228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_142
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5225e486587dcceb0800000000000000
+      internalID: -4698143343273684443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_143
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534895d5519c551b0800000000000000
+      internalID: -5668403462378257355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_144
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d74710de3ad929b0800000000000000
+      internalID: -5104308739333732393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_145
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bacf0a39e32a7ff0800000000000000
+      internalID: -37678162270762311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_146
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97949bbcdc1e829a0800000000000000
+      internalID: -6257503408228841095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_147
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d8da9706a32280800000000000000
+      internalID: -9069222673001164657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_148
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd7854716185b7c0800000000000000
+      internalID: -4056193633813496328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_149
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef3c7e33266de4e0800000000000000
+      internalID: -1950790762023338009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_150
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182dd2ae6b9f5f3e0800000000000000
+      internalID: -2020434293797563775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_151
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150aa88a10814c80800000000000000
+      internalID: -8340244183463099109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_152
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 207
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c143d83395d27380800000000000000
+      internalID: -8974876279105699390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_153
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478cb1e406abac70800000000000000
+      internalID: 8983456421617895247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_154
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c080f2645c4b2f80800000000000000
+      internalID: -8130320776966405949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_155
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 207
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421f34f833666e40800000000000000
+      internalID: 5649311878849958474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_156
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b86aa3d4fd2ae0a0800000000000000
+      internalID: -6851613353544357708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_157
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 144
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a87ef53dfc46230800000000000000
+      internalID: 3631255706321521275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_158
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0cc878320832820800000000000000
+      internalID: 2892296275788349675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_159
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ed688bad6d1dd0800000000000000
+      internalID: -2513732433507129765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28023e830a005d20800000000000000
+      internalID: 3265120740230432811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0892ada376f00db0800000000000000
+      internalID: -4827587823846385654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_162
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610d3d44aea217540800000000000000
+      internalID: 5003827846650777622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_163
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b431a380f586a7b0800000000000000
+      internalID: -5213332250587745096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_164
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a812c7e73c9767f0800000000000000
+      internalID: -619354659814762335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_165
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b0b72931c71700800000000000000
+      internalID: 511089533953028925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_166
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bad03f137960760800000000000000
+      internalID: 7423787276553792315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_167
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf74c6fea1c1920800000000000000
+      internalID: 2962272270519106290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_168
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaaf2084b9b15340800000000000000
+      internalID: 4850862458550594274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_169
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05a3a6b62929bca0800000000000000
+      internalID: -6000719782244801269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a76a6ba7032e080800000000000000
+      internalID: -9159705388509660646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaca590831351e40800000000000000
+      internalID: 5626457426214177519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1b6bfbfe5dbfd0800000000000000
+      internalID: -2324597396305404621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc577bab4863ad0800000000000000
+      internalID: -2722842987222152389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680784effd15bfc0800000000000000
+      internalID: -3479842152185919378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_175
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 79
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b2b7470d2e4c80800000000000000
+      internalID: -8336676350925294372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_176
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db6bb32a275fd20800000000000000
+      internalID: 3311679142112967987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_177
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1d257ac67b6130800000000000000
+      internalID: 3561070542287870962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_178
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 79
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06953631217350260800000000000000
+      internalID: 7063112141374708064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_179
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d578cec6185060800000000000000
+      internalID: 6942323902973859961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_180
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb0f7df6e195a60800000000000000
+      internalID: 7663189706660691943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_181
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353880b4ea1d4680800000000000000
+      internalID: -8769323329903905477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_182
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691d6630c07d1890800000000000000
+      internalID: -7485703034770744991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_183
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d2e876cc9e12f10800000000000000
+      internalID: 2243331153527188824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_184
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b61dc1167b958c0800000000000000
+      internalID: -4009972365473518816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_185
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbffd2da5490cab0800000000000000
+      internalID: -4989825269320647739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_186
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971bb7fb860880b0800000000000000
+      internalID: -5726319727975131238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_187
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 19
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5696f0145926c90800000000000000
+      internalID: -7178010749411170912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleevless_red_188
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 8
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a18434ebfda970800000000000000
+      internalID: 8767941007112250244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

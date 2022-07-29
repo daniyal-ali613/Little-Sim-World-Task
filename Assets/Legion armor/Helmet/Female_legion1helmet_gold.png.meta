@@ -1,0 +1,4460 @@
+fileFormatVersion: 2
+guid: 5a4a2e0a55c6da04ab4fa02aa16dcbe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3941166942313685700
+    second: Female_legion1helmet_gold_0
+  - first:
+      213: -508476281511294325
+    second: Female_legion1helmet_gold_1
+  - first:
+      213: -3437982867626089300
+    second: Female_legion1helmet_gold_2
+  - first:
+      213: 727622311366162306
+    second: Female_legion1helmet_gold_3
+  - first:
+      213: 9122105289535021400
+    second: Female_legion1helmet_gold_4
+  - first:
+      213: 6829157117923457463
+    second: Female_legion1helmet_gold_5
+  - first:
+      213: 2102369070577870244
+    second: Female_legion1helmet_gold_6
+  - first:
+      213: 6122312430401094276
+    second: Female_legion1helmet_gold_7
+  - first:
+      213: -2702610940152793073
+    second: Female_legion1helmet_gold_8
+  - first:
+      213: 4776401677942702283
+    second: Female_legion1helmet_gold_9
+  - first:
+      213: 6680962573086045870
+    second: Female_legion1helmet_gold_10
+  - first:
+      213: -3101215074922191757
+    second: Female_legion1helmet_gold_11
+  - first:
+      213: -4599111021777057811
+    second: Female_legion1helmet_gold_12
+  - first:
+      213: -727562155242051714
+    second: Female_legion1helmet_gold_13
+  - first:
+      213: -4743442528257889745
+    second: Female_legion1helmet_gold_14
+  - first:
+      213: 3414051639556844437
+    second: Female_legion1helmet_gold_15
+  - first:
+      213: -5065445077541934648
+    second: Female_legion1helmet_gold_16
+  - first:
+      213: -869440376538996364
+    second: Female_legion1helmet_gold_17
+  - first:
+      213: 29800156893316805
+    second: Female_legion1helmet_gold_18
+  - first:
+      213: -159533195901637648
+    second: Female_legion1helmet_gold_19
+  - first:
+      213: 96561930314071458
+    second: Female_legion1helmet_gold_20
+  - first:
+      213: 7057693119991831767
+    second: Female_legion1helmet_gold_21
+  - first:
+      213: 3197422229733833502
+    second: Female_legion1helmet_gold_22
+  - first:
+      213: -3566719296895773711
+    second: Female_legion1helmet_gold_23
+  - first:
+      213: 8494454428242651262
+    second: Female_legion1helmet_gold_24
+  - first:
+      213: -6711978024813528119
+    second: Female_legion1helmet_gold_25
+  - first:
+      213: -1190741341952977423
+    second: Female_legion1helmet_gold_26
+  - first:
+      213: -4548008468890805127
+    second: Female_legion1helmet_gold_27
+  - first:
+      213: -1689632771942297708
+    second: Female_legion1helmet_gold_28
+  - first:
+      213: -3342254314745748044
+    second: Female_legion1helmet_gold_29
+  - first:
+      213: -7057966304404627616
+    second: Female_legion1helmet_gold_30
+  - first:
+      213: -309378091589035288
+    second: Female_legion1helmet_gold_31
+  - first:
+      213: -725736361783207719
+    second: Female_legion1helmet_gold_32
+  - first:
+      213: 9144040743353651196
+    second: Female_legion1helmet_gold_33
+  - first:
+      213: -3577066826643984622
+    second: Female_legion1helmet_gold_34
+  - first:
+      213: -7209963771077603643
+    second: Female_legion1helmet_gold_35
+  - first:
+      213: -7670934230370734518
+    second: Female_legion1helmet_gold_36
+  - first:
+      213: 7865043368670565387
+    second: Female_legion1helmet_gold_37
+  - first:
+      213: 4727330111412492400
+    second: Female_legion1helmet_gold_38
+  - first:
+      213: 2369334390920319292
+    second: Female_legion1helmet_gold_39
+  - first:
+      213: -8928410001849164716
+    second: Female_legion1helmet_gold_40
+  - first:
+      213: 4778948166297608927
+    second: Female_legion1helmet_gold_41
+  - first:
+      213: 5704075216600354676
+    second: Female_legion1helmet_gold_42
+  - first:
+      213: -2498829415890937033
+    second: Female_legion1helmet_gold_43
+  - first:
+      213: -1240542111198297115
+    second: Female_legion1helmet_gold_44
+  - first:
+      213: -7749830011374774648
+    second: Female_legion1helmet_gold_45
+  - first:
+      213: 9045031655912790715
+    second: Female_legion1helmet_gold_46
+  - first:
+      213: -2979011744958342803
+    second: Female_legion1helmet_gold_47
+  - first:
+      213: 7024681556150443740
+    second: Female_legion1helmet_gold_48
+  - first:
+      213: -3395818741977218472
+    second: Female_legion1helmet_gold_49
+  - first:
+      213: -7509110293758320468
+    second: Female_legion1helmet_gold_50
+  - first:
+      213: -1600165353238272923
+    second: Female_legion1helmet_gold_51
+  - first:
+      213: 3062439746234519004
+    second: Female_legion1helmet_gold_52
+  - first:
+      213: -8047010547080556079
+    second: Female_legion1helmet_gold_53
+  - first:
+      213: 3895559627483644985
+    second: Female_legion1helmet_gold_54
+  - first:
+      213: 7865181392349866291
+    second: Female_legion1helmet_gold_55
+  - first:
+      213: 6081419482588716246
+    second: Female_legion1helmet_gold_56
+  - first:
+      213: 2708611529240210747
+    second: Female_legion1helmet_gold_57
+  - first:
+      213: 8065117387245894661
+    second: Female_legion1helmet_gold_58
+  - first:
+      213: 1816481438218916780
+    second: Female_legion1helmet_gold_59
+  - first:
+      213: 6058429494286662880
+    second: Female_legion1helmet_gold_60
+  - first:
+      213: -2999766271478352389
+    second: Female_legion1helmet_gold_61
+  - first:
+      213: 5818794114529098648
+    second: Female_legion1helmet_gold_62
+  - first:
+      213: -7914740019382908886
+    second: Female_legion1helmet_gold_63
+  - first:
+      213: 5834752156331982500
+    second: Female_legion1helmet_gold_64
+  - first:
+      213: -814497252262977317
+    second: Female_legion1helmet_gold_65
+  - first:
+      213: -2036578847846680250
+    second: Female_legion1helmet_gold_66
+  - first:
+      213: -8622235229140073754
+    second: Female_legion1helmet_gold_67
+  - first:
+      213: 7414733503658611545
+    second: Female_legion1helmet_gold_68
+  - first:
+      213: -2506235538746267972
+    second: Female_legion1helmet_gold_69
+  - first:
+      213: -6924694344267119878
+    second: Female_legion1helmet_gold_70
+  - first:
+      213: -2942010278884741507
+    second: Female_legion1helmet_gold_71
+  - first:
+      213: 2004068447178005075
+    second: Female_legion1helmet_gold_72
+  - first:
+      213: 5433003948082838000
+    second: Female_legion1helmet_gold_73
+  - first:
+      213: 8981095200489194705
+    second: Female_legion1helmet_gold_74
+  - first:
+      213: 8926859726809762286
+    second: Female_legion1helmet_gold_75
+  - first:
+      213: 2564741324487829313
+    second: Female_legion1helmet_gold_76
+  - first:
+      213: -7802122490479145888
+    second: Female_legion1helmet_gold_77
+  - first:
+      213: -5930504884754020024
+    second: Female_legion1helmet_gold_78
+  - first:
+      213: 5232938161046734320
+    second: Female_legion1helmet_gold_79
+  - first:
+      213: -1564195139392159477
+    second: Female_legion1helmet_gold_80
+  - first:
+      213: 7310847758301363632
+    second: Female_legion1helmet_gold_81
+  - first:
+      213: 8293805134783625329
+    second: Female_legion1helmet_gold_82
+  - first:
+      213: -7642307368447816631
+    second: Female_legion1helmet_gold_83
+  - first:
+      213: -2625397979520557270
+    second: Female_legion1helmet_gold_84
+  - first:
+      213: 6179279839069466487
+    second: Female_legion1helmet_gold_85
+  - first:
+      213: -7934708775885489787
+    second: Female_legion1helmet_gold_86
+  - first:
+      213: -9052808759524816964
+    second: Female_legion1helmet_gold_87
+  - first:
+      213: 6418346127171902519
+    second: Female_legion1helmet_gold_88
+  - first:
+      213: -6589027211897619385
+    second: Female_legion1helmet_gold_89
+  - first:
+      213: -3697928951032772318
+    second: Female_legion1helmet_gold_90
+  - first:
+      213: 5906281212063633719
+    second: Female_legion1helmet_gold_91
+  - first:
+      213: 148131630202638267
+    second: Female_legion1helmet_gold_92
+  - first:
+      213: -4900272319679909433
+    second: Female_legion1helmet_gold_93
+  - first:
+      213: -701119006151158064
+    second: Female_legion1helmet_gold_94
+  - first:
+      213: -5021713761488048172
+    second: Female_legion1helmet_gold_95
+  - first:
+      213: -2813975912755514416
+    second: Female_legion1helmet_gold_96
+  - first:
+      213: -4541521407395430782
+    second: Female_legion1helmet_gold_97
+  - first:
+      213: 2117342879689409195
+    second: Female_legion1helmet_gold_98
+  - first:
+      213: -3452581506694922723
+    second: Female_legion1helmet_gold_99
+  - first:
+      213: 7073051615556084665
+    second: Female_legion1helmet_gold_100
+  - first:
+      213: -7189830375134036021
+    second: Female_legion1helmet_gold_101
+  - first:
+      213: 879408083236138014
+    second: Female_legion1helmet_gold_102
+  - first:
+      213: -2955993108010404716
+    second: Female_legion1helmet_gold_103
+  - first:
+      213: 1706747110481957643
+    second: Female_legion1helmet_gold_104
+  - first:
+      213: 9096949866281079950
+    second: Female_legion1helmet_gold_105
+  - first:
+      213: 3118397344115590429
+    second: Female_legion1helmet_gold_106
+  - first:
+      213: 4615402650699605886
+    second: Female_legion1helmet_gold_107
+  - first:
+      213: 3075179997439350161
+    second: Female_legion1helmet_gold_108
+  - first:
+      213: 326403868205003287
+    second: Female_legion1helmet_gold_109
+  - first:
+      213: 1416513689333404923
+    second: Female_legion1helmet_gold_110
+  - first:
+      213: 2508464219459304657
+    second: Female_legion1helmet_gold_111
+  - first:
+      213: -8986148352996468312
+    second: Female_legion1helmet_gold_112
+  - first:
+      213: 5226550022581387207
+    second: Female_legion1helmet_gold_113
+  - first:
+      213: -6270925959104933040
+    second: Female_legion1helmet_gold_114
+  - first:
+      213: -5611796896416413465
+    second: Female_legion1helmet_gold_115
+  - first:
+      213: 452952631579149719
+    second: Female_legion1helmet_gold_116
+  - first:
+      213: -1913133512001589990
+    second: Female_legion1helmet_gold_117
+  - first:
+      213: 5836552007594234876
+    second: Female_legion1helmet_gold_118
+  - first:
+      213: -8977733183237247945
+    second: Female_legion1helmet_gold_119
+  - first:
+      213: -1343833011884736574
+    second: Female_legion1helmet_gold_120
+  - first:
+      213: -1270839343321402151
+    second: Female_legion1helmet_gold_121
+  - first:
+      213: 3170484340581876433
+    second: Female_legion1helmet_gold_122
+  - first:
+      213: -2164225566676661638
+    second: Female_legion1helmet_gold_123
+  - first:
+      213: 8968195831357638177
+    second: Female_legion1helmet_gold_124
+  - first:
+      213: 6787406822286997597
+    second: Female_legion1helmet_gold_125
+  - first:
+      213: -828297036305584461
+    second: Female_legion1helmet_gold_126
+  - first:
+      213: 4462570746511247890
+    second: Female_legion1helmet_gold_127
+  - first:
+      213: -7146044434746559407
+    second: Female_legion1helmet_gold_128
+  - first:
+      213: 8482181911981262723
+    second: Female_legion1helmet_gold_129
+  - first:
+      213: -4134795148269774177
+    second: Female_legion1helmet_gold_130
+  - first:
+      213: 3522954852391556533
+    second: Female_legion1helmet_gold_131
+  - first:
+      213: -2577560728670821161
+    second: Female_legion1helmet_gold_132
+  - first:
+      213: -240295694513218746
+    second: Female_legion1helmet_gold_133
+  - first:
+      213: 8090373924163319771
+    second: Female_legion1helmet_gold_134
+  - first:
+      213: -872767185598547278
+    second: Female_legion1helmet_gold_135
+  - first:
+      213: 7200020542699421045
+    second: Female_legion1helmet_gold_136
+  - first:
+      213: 8717804787368287777
+    second: Female_legion1helmet_gold_137
+  - first:
+      213: 8514245802199095340
+    second: Female_legion1helmet_gold_138
+  - first:
+      213: 8283502158555568934
+    second: Female_legion1helmet_gold_139
+  - first:
+      213: 6719466774633614446
+    second: Female_legion1helmet_gold_140
+  - first:
+      213: -3805924461360517634
+    second: Female_legion1helmet_gold_141
+  - first:
+      213: -7719225512042902253
+    second: Female_legion1helmet_gold_142
+  - first:
+      213: 6139202057068548612
+    second: Female_legion1helmet_gold_143
+  - first:
+      213: -9045982380550085361
+    second: Female_legion1helmet_gold_144
+  - first:
+      213: 1873242693311721328
+    second: Female_legion1helmet_gold_145
+  - first:
+      213: -8115918488465308728
+    second: Female_legion1helmet_gold_146
+  - first:
+      213: 2055393734476807098
+    second: Female_legion1helmet_gold_147
+  - first:
+      213: 1519170305135950812
+    second: Female_legion1helmet_gold_148
+  - first:
+      213: 6547565286471737139
+    second: Female_legion1helmet_gold_149
+  - first:
+      213: -7999492377887816693
+    second: Female_legion1helmet_gold_150
+  - first:
+      213: 886968476028058968
+    second: Female_legion1helmet_gold_151
+  - first:
+      213: 2985447631677618158
+    second: Female_legion1helmet_gold_152
+  - first:
+      213: 8148023849034290775
+    second: Female_legion1helmet_gold_153
+  - first:
+      213: -3385154543804820639
+    second: Female_legion1helmet_gold_154
+  - first:
+      213: -1791236830135899859
+    second: Female_legion1helmet_gold_155
+  - first:
+      213: 8427281998026331797
+    second: Female_legion1helmet_gold_156
+  - first:
+      213: 3166684408633389997
+    second: Female_legion1helmet_gold_157
+  - first:
+      213: -7066040829807641972
+    second: Female_legion1helmet_gold_158
+  - first:
+      213: -5866224353240781449
+    second: Female_legion1helmet_gold_159
+  - first:
+      213: -4135053488560023379
+    second: Female_legion1helmet_gold_160
+  - first:
+      213: 6627750382103833548
+    second: Female_legion1helmet_gold_161
+  - first:
+      213: 8818357017990250963
+    second: Female_legion1helmet_gold_162
+  - first:
+      213: -641228263039690702
+    second: Female_legion1helmet_gold_163
+  - first:
+      213: 5076902205889599609
+    second: Female_legion1helmet_gold_164
+  - first:
+      213: -2178828776871522768
+    second: Female_legion1helmet_gold_165
+  - first:
+      213: -1155377324666136399
+    second: Female_legion1helmet_gold_166
+  - first:
+      213: 6790392828928881712
+    second: Female_legion1helmet_gold_167
+  - first:
+      213: -3851047893432690876
+    second: Female_legion1helmet_gold_168
+  - first:
+      213: 926176671469103436
+    second: Female_legion1helmet_gold_169
+  - first:
+      213: 8743740467597937968
+    second: Female_legion1helmet_gold_170
+  - first:
+      213: 5844815667406618853
+    second: Female_legion1helmet_gold_171
+  - first:
+      213: 6961569893497381601
+    second: Female_legion1helmet_gold_172
+  - first:
+      213: 6673416593159104032
+    second: Female_legion1helmet_gold_173
+  - first:
+      213: -4411946979618291803
+    second: Female_legion1helmet_gold_174
+  - first:
+      213: -1703971100043237716
+    second: Female_legion1helmet_gold_175
+  - first:
+      213: 2737521184733316507
+    second: Female_legion1helmet_gold_176
+  - first:
+      213: 84893103426899617
+    second: Female_legion1helmet_gold_177
+  - first:
+      213: -2975445094251450660
+    second: Female_legion1helmet_gold_178
+  - first:
+      213: 5453281830226177076
+    second: Female_legion1helmet_gold_179
+  - first:
+      213: 6518099513114716130
+    second: Female_legion1helmet_gold_180
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ae1de376d1b630800000000000000
+      internalID: 3941166942313685700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8acec7148781f8f0800000000000000
+      internalID: -508476281511294325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4a44f0cc4d940d0800000000000000
+      internalID: -3437982867626089300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f0a713a8091a00800000000000000
+      internalID: 727622311366162306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851627a0e6a389e70800000000000000
+      internalID: 9122105289535021400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97821673a06ce50800000000000000
+      internalID: 6829157117923457463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ef86e78d1d2d10800000000000000
+      internalID: 2102369070577870244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1311
+        width: 77
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820402d7b2d6f450800000000000000
+      internalID: 6122312430401094276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08bb124ba56e7ad0800000000000000
+      internalID: -2702610940152793073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ca560500394240800000000000000
+      internalID: 4776401677942702283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6397e101c87bc50800000000000000
+      internalID: 6680962573086045870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742d2ff15546f4d0800000000000000
+      internalID: -3101215074922191757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7056094ecac20c0800000000000000
+      internalID: -4599111021777057811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a7c8131e27e5f0800000000000000
+      internalID: -727562155242051714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a25b20728eb2eb0800000000000000
+      internalID: -4743442528257889745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b20a4b0e5216f20800000000000000
+      internalID: 3414051639556844437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9acd33a8ce3b9b0800000000000000
+      internalID: -5065445077541934648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e20385902fe3f0800000000000000
+      internalID: -869440376538996364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c680e5b51fd96000800000000000000
+      internalID: 29800156893316805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb6660576939cdf0800000000000000
+      internalID: -159533195901637648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad3233609e075100800000000000000
+      internalID: 96561930314071458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcd4d6df76f1f160800000000000000
+      internalID: 7057693119991831767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf838c3968f5c20800000000000000
+      internalID: 3197422229733833502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f31ffe52b7708ec0800000000000000
+      internalID: -3566719296895773711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a5240c4d52e570800000000000000
+      internalID: 8494454428242651262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf2ca4c834ad2a0800000000000000
+      internalID: -6711978024813528119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5558dee03a97fe0800000000000000
+      internalID: -1190741341952977423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c9b48d46a32e0c0800000000000000
+      internalID: -4548008468890805127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f458b22f73d88e0800000000000000
+      internalID: -1689632771942297708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b52094a86ded91d0800000000000000
+      internalID: -3342254314745748044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f19457a011d0e90800000000000000
+      internalID: -7057966304404627616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea1c8dc34ed4bbf0800000000000000
+      internalID: -309378091589035288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8d353cf9aade5f0800000000000000
+      internalID: -725736361783207719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff0b4fdb9826ee70800000000000000
+      internalID: 9144040743353651196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2d0c5ca4bb5ec0800000000000000
+      internalID: -3577066826643984622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cecb75762011fb90800000000000000
+      internalID: -7209963771077603643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_36
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2e57b5fd5b8590800000000000000
+      internalID: -7670934230370734518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0496a4e54f362d60800000000000000
+      internalID: 7865043368670565387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078dfba90b9da9140800000000000000
+      internalID: 4727330111412492400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c311ce4431191e020800000000000000
+      internalID: 2369334390920319292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5cb6786ae71480800000000000000
+      internalID: -8928410001849164716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_41
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd26c2c890c325240800000000000000
+      internalID: 4778948166297608927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fc2912032f82f40800000000000000
+      internalID: 5704075216600354676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1687b2ef525dd0800000000000000
+      internalID: -2498829415890937033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3cc15c585b8cee0800000000000000
+      internalID: -1240542111198297115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886585e3aa2137490800000000000000
+      internalID: -7749830011374774648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba58d05e58668d70800000000000000
+      internalID: 9045031655912790715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d699a08f99c68a6d0800000000000000
+      internalID: -2979011744958342803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded59e28aeac7160800000000000000
+      internalID: 7024681556150443740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 923
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85285d298d0afd0d0800000000000000
+      internalID: -3395818741977218472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 923
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06e4909f74ac790800000000000000
+      internalID: -7509110293758320468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 923
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564685ad6121bc9e0800000000000000
+      internalID: -1600165353238272923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd885449b8ff7a20800000000000000
+      internalID: 3062439746234519004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d11175da86435090800000000000000
+      internalID: -8047010547080556079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934048577decf0630800000000000000
+      internalID: 3895559627483644985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339a6090eccb62d60800000000000000
+      internalID: 7865181392349866291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc17d57cca856450800000000000000
+      internalID: 6081419482588716246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3de3e2c5dbe69520800000000000000
+      internalID: 2708611529240210747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c3e9a688d0def60800000000000000
+      internalID: 8065117387245894661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca311227e30753910800000000000000
+      internalID: 1816481438218916780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_60
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb4bfa68dd31450800000000000000
+      internalID: 6058429494286662880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b5533870be56d0800000000000000
+      internalID: -2999766271478352389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf3a9fa6280c050800000000000000
+      internalID: 5818794114529098648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a280d1fe2e1392290800000000000000
+      internalID: -7914740019382908886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 796
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aebc9e1c2439f050800000000000000
+      internalID: 5834752156331982500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_65
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06550801352b4f0800000000000000
+      internalID: -814497252262977317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_66
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493601045e9cb3e0800000000000000
+      internalID: -2036578847846680250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e24f3dddbaa75880800000000000000
+      internalID: -8622235229140073754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_68
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 796
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95352cd26dc66e660800000000000000
+      internalID: 7414733503658611545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_69
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a19d5e00183dd0800000000000000
+      internalID: -2506235538746267972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24dc7be2b86ef90800000000000000
+      internalID: -6924694344267119878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 731
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee6812d31eb27d0800000000000000
+      internalID: -2942010278884741507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_72
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 731
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a1d9b72a1efcb10800000000000000
+      internalID: 2004068447178005075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b5c43e48e56b40800000000000000
+      internalID: 5433003948082838000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_74
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4cf1f308243ac70800000000000000
+      internalID: 8981095200489194705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 731
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee98c3000a392eb70800000000000000
+      internalID: 8926859726809762286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 731
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147acd265aac79320800000000000000
+      internalID: 2564741324487829313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c87ecaeea49b390800000000000000
+      internalID: -7802122490479145888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849848d7a3d92bda0800000000000000
+      internalID: -5930504884754020024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_79
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5c6cc38812f9840800000000000000
+      internalID: 5232938161046734320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b014325eeccda4ae0800000000000000
+      internalID: -1564195139392159477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_81
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd73883d49557560800000000000000
+      internalID: 7310847758301363632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 667
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b61fd3d3891370800000000000000
+      internalID: 8293805134783625329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c415760f111f590800000000000000
+      internalID: -7642307368447816631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f16a49276b09bd0800000000000000
+      internalID: -2625397979520557270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe77f364631c550800000000000000
+      internalID: 6179279839069466487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_86
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 667
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589bb21886042e190800000000000000
+      internalID: -7934708775885489787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_87
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb78af4a566fd5280800000000000000
+      internalID: -9052808759524816964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd59bfbcb821950800000000000000
+      internalID: 6418346127171902519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 603
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb57339a21f84a0800000000000000
+      internalID: -6589027211897619385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 603
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2290f0526315eacc0800000000000000
+      internalID: -3697928951032772318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731dd94387357f150800000000000000
+      internalID: 5906281212063633719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4a3ecee44e0200800000000000000
+      internalID: 148131630202638267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_93
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 603
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1bccab94cbefbb0800000000000000
+      internalID: -4900272319679909433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_94
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 603
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6d5158aff1546f0800000000000000
+      internalID: -701119006151158064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_95
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df60daa0f94f4ab0800000000000000
+      internalID: -5021713761488048172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_96
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b3b101dfb2f8d0800000000000000
+      internalID: -2813975912755514416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_97
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28efc5c875649f0c0800000000000000
+      internalID: -4541521407395430782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 539
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba207938120526d10800000000000000
+      internalID: 2117342879689409195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 539
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ebd578967f510d0800000000000000
+      internalID: -3452581506694922723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3293f38f6882260800000000000000
+      internalID: 7073051615556084665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_101
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf72defd57983c90800000000000000
+      internalID: -7189830375134036021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_102
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ca5ed0ef8443c00800000000000000
+      internalID: 879408083236138014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49479860ee33af6d0800000000000000
+      internalID: -2955993108010404716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_104
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 474
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0393b944759fa710800000000000000
+      internalID: 1706747110481957643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 475
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e849837a4bbde3e70800000000000000
+      internalID: 9096949866281079950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15088cccd5c64b20800000000000000
+      internalID: 3118397344115590429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a852e1443d0040800000000000000
+      internalID: 4615402650699605886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_108
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19552c72aeb3daa20800000000000000
+      internalID: 3075179997439350161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_109
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123ca9b69e978400800000000000000
+      internalID: 326403868205003287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_110
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 410
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4123802b778a310800000000000000
+      internalID: 1416513689333404923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_111
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 411
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc36accaeadfc220800000000000000
+      internalID: 2508464219459304657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_112
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91fa00fa9ca4380800000000000000
+      internalID: -8986148352996468312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_113
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff5c8dd8f688840800000000000000
+      internalID: 5226550022581387207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05356c2a01239f8a0800000000000000
+      internalID: -6270925959104933040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_115
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c57d8474ee12b0800000000000000
+      internalID: -5611796896416413465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_116
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 346
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7958a51c406394600800000000000000
+      internalID: 452952631579149719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_117
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 347
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1def31053f2375e0800000000000000
+      internalID: -1913133512001589990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_118
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf35fb5a0299ff050800000000000000
+      internalID: 5836552007594234876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_119
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c28e46c3fa86380800000000000000
+      internalID: -8977733183237247945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_120
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfba21eefeb95de0800000000000000
+      internalID: -1343833011884736574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_121
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 283
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4bcb6b9521d5ee0800000000000000
+      internalID: -1270839343321402151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 283
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24256b5b2dffb20800000000000000
+      internalID: 3170484340581876433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4b6c405027f1e0800000000000000
+      internalID: -2164225566676661638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_124
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1260634d79e657c70800000000000000
+      internalID: 8968195831357638177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_125
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58ba7c2b86b13e50800000000000000
+      internalID: 6787406822286997597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_126
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be2f76eb3c4184f0800000000000000
+      internalID: -828297036305584461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_127
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a4ad2437c3eed30800000000000000
+      internalID: 4462570746511247890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15436cda27624dc90800000000000000
+      internalID: -7146044434746559407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_129
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38703e72283c6b570800000000000000
+      internalID: 8482181911981262723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_130
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a1f5048b14e96c0800000000000000
+      internalID: -4134795148269774177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_131
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b59988d5cc04e030800000000000000
+      internalID: 3522954852391556533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_132
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4249c7c2aaa3cd0800000000000000
+      internalID: -2577560728670821161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_133
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bdb77c65c4aacf0800000000000000
+      internalID: -240295694513218746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd776d92838c64070800000000000000
+      internalID: 8090373924163319771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf7ca6ede43e3f0800000000000000
+      internalID: -872767185598547278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d3d17498c9be360800000000000000
+      internalID: 7200020542699421045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_137
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 218
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e5944e34ddbf870800000000000000
+      internalID: 8717804787368287777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_138
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28107a527da82670800000000000000
+      internalID: 8514245802199095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_139
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd2e84359e4f270800000000000000
+      internalID: 8283502158555568934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_140
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c83162e67504d50800000000000000
+      internalID: 6719466774633614446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_141
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 228
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde2a6fdd3ae2bc0800000000000000
+      internalID: -3805924461360517634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_142
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dcc858b4dcfd490800000000000000
+      internalID: -7719225512042902253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_143
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4021be77eb3d23550800000000000000
+      internalID: 6139202057068548612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_144
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05aedad3f6367280800000000000000
+      internalID: -9045982380550085361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_145
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe0f00e481ff910800000000000000
+      internalID: 1873242693311721328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_146
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3000d72277e5f80800000000000000
+      internalID: -8115918488465308728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_147
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 220
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbbd0926b9368c10800000000000000
+      internalID: 2055393734476807098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_148
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb33f6f75d251510800000000000000
+      internalID: 1519170305135950812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_149
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f93d300ff9dda50800000000000000
+      internalID: 6547565286471737139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_150
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044d80c0181cf090800000000000000
+      internalID: -7999492377887816693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_151
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3f9c21252f4c00800000000000000
+      internalID: 886968476028058968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_152
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7fcadadc07e6920800000000000000
+      internalID: 2985447631677618158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_153
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75699174588931170800000000000000
+      internalID: 8148023849034290775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_154
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d6b2b0e38501d0800000000000000
+      internalID: -3385154543804820639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_155
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292727e79f3427e0800000000000000
+      internalID: -1791236830135899859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_156
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596576ad358b3f470800000000000000
+      internalID: 8427281998026331797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_157
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37c5c11b252fb20800000000000000
+      internalID: 3166684408633389997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_158
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab8e28d4160fd90800000000000000
+      internalID: -7066040829807641972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_159
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d6654080cf69ea0800000000000000
+      internalID: -5866224353240781449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_160
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8d327b2c65d96c0800000000000000
+      internalID: -4135053488560023379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_161
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb22417bdf7afb50800000000000000
+      internalID: 6627750382103833548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_162
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1c1e77cf8116a70800000000000000
+      internalID: 8818357017990250963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_163
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381499ca46e917f0800000000000000
+      internalID: -641228263039690702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_164
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 90
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978527d58a7c47640800000000000000
+      internalID: 5076902205889599609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_165
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e8c2875ce33c1e0800000000000000
+      internalID: -2178828776871522768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_166
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8dbb5d17647ffe0800000000000000
+      internalID: -1155377324666136399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_167
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347aa50d425c3e50800000000000000
+      internalID: 6790392828928881712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_168
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 100
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4479dea38545e8ac0800000000000000
+      internalID: -3851047893432690876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_169
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496b2e86c07adc00800000000000000
+      internalID: 926176671469103436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_170
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d026301a1085970800000000000000
+      internalID: 8743740467597937968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_171
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0c861e1e4fc1150800000000000000
+      internalID: 5844815667406618853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_172
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e227f42fe67c9060800000000000000
+      internalID: 6961569893497381601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_173
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0262271c80dbc9c50800000000000000
+      internalID: 6673416593159104032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_174
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 92
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af7ef7f89d95c2c0800000000000000
+      internalID: -4411946979618291803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_175
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 27
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6246200574a58e0800000000000000
+      internalID: -1703971100043237716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_176
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 26
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95c2257301adf520800000000000000
+      internalID: 2737521184733316507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_177
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae04a9e3d99d2100800000000000000
+      internalID: 84893103426899617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_178
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea67c837815b6d0800000000000000
+      internalID: -2975445094251450660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_179
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 10
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c29be8ee2fdab40800000000000000
+      internalID: 5453281830226177076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female_legion1helmet_gold_180
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e769d909f0f47a50800000000000000
+      internalID: 6518099513114716130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -109,6 +109,10 @@ public class Shop_UI : MonoBehaviour
     {
         movement.movePlayer = true;
         ui.SetActive(false);
+        foreach(var item in items)
+        {
+            item.SetActive(false);
+        }
     }
 
 }

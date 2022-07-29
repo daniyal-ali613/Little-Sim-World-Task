@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: eb0bdb0a07203fb408ae72b04a4c92a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7032406751943905966
+    second: stetson_banded_f_0
+  - first:
+      213: -5499430893516517860
+    second: stetson_banded_f_1
+  - first:
+      213: 8782203734408227488
+    second: stetson_banded_f_2
+  - first:
+      213: -3561030356474925753
+    second: stetson_banded_f_3
+  - first:
+      213: 8904162806620049388
+    second: stetson_banded_f_4
+  - first:
+      213: -6244741836884372702
+    second: stetson_banded_f_5
+  - first:
+      213: 1358528296996211372
+    second: stetson_banded_f_6
+  - first:
+      213: 735354409012113582
+    second: stetson_banded_f_7
+  - first:
+      213: 7615232518781747003
+    second: stetson_banded_f_8
+  - first:
+      213: -2903880486640072290
+    second: stetson_banded_f_9
+  - first:
+      213: -5821807772179079530
+    second: stetson_banded_f_10
+  - first:
+      213: -6465335130197395004
+    second: stetson_banded_f_11
+  - first:
+      213: -3118926651387685350
+    second: stetson_banded_f_12
+  - first:
+      213: -1872165602698351362
+    second: stetson_banded_f_13
+  - first:
+      213: 965915726886007540
+    second: stetson_banded_f_14
+  - first:
+      213: -8520699865057418858
+    second: stetson_banded_f_15
+  - first:
+      213: 4514973652442746309
+    second: stetson_banded_f_16
+  - first:
+      213: 8335783285864943352
+    second: stetson_banded_f_17
+  - first:
+      213: -6883841853173482376
+    second: stetson_banded_f_18
+  - first:
+      213: 5293812079474304875
+    second: stetson_banded_f_19
+  - first:
+      213: 3577272736792353407
+    second: stetson_banded_f_20
+  - first:
+      213: -1866270695943136842
+    second: stetson_banded_f_21
+  - first:
+      213: -8784381399332639754
+    second: stetson_banded_f_22
+  - first:
+      213: 3971777814357106216
+    second: stetson_banded_f_23
+  - first:
+      213: 2922438816713657370
+    second: stetson_banded_f_24
+  - first:
+      213: -8897676061492744277
+    second: stetson_banded_f_25
+  - first:
+      213: -9126867682457204008
+    second: stetson_banded_f_26
+  - first:
+      213: -9202447390393585120
+    second: stetson_banded_f_27
+  - first:
+      213: 1056124843525793944
+    second: stetson_banded_f_28
+  - first:
+      213: 6193894971314062073
+    second: stetson_banded_f_29
+  - first:
+      213: 3894293497694169851
+    second: stetson_banded_f_30
+  - first:
+      213: -289057662572982926
+    second: stetson_banded_f_31
+  - first:
+      213: 2560957222940184608
+    second: stetson_banded_f_32
+  - first:
+      213: 8309734933738276832
+    second: stetson_banded_f_33
+  - first:
+      213: 3961893960069122758
+    second: stetson_banded_f_34
+  - first:
+      213: -5315436079322680680
+    second: stetson_banded_f_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stetson_banded_f_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 226
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2dcad7ea0289160800000000000000
+      internalID: 7032406751943905966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 226
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e83255db81ea3b0800000000000000
+      internalID: -5499430893516517860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 225
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aae28e24c7a0e970800000000000000
+      internalID: 8782203734408227488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 225
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dede702cda49ec0800000000000000
+      internalID: -3561030356474925753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 226
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef45d675e0f19b70800000000000000
+      internalID: 8904162806620049388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 226
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2239c7aa2683659a0800000000000000
+      internalID: -6244741836884372702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 225
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa86cfc9467ad210800000000000000
+      internalID: 1358528296996211372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 225
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea03f2d50f0843a00800000000000000
+      internalID: 735354409012113582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 226
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3dfbe0adbea960800000000000000
+      internalID: 7615232518781747003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 164
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9941a3351853b7d0800000000000000
+      internalID: -2903880486640072290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 163
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e58ac2da8c43fa0800000000000000
+      internalID: -5821807772179079530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 163
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9fab234f38646a0800000000000000
+      internalID: -6465335130197395004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 164
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16d98f3cb857b4d0800000000000000
+      internalID: -3118926651387685350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 164
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca572bd4bb406e0800000000000000
+      internalID: -1872165602698351362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 163
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2f0086c3f976d00800000000000000
+      internalID: 965915726886007540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 163
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691a8890e9460c980800000000000000
+      internalID: -8520699865057418858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 164
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd09149d9868ae30800000000000000
+      internalID: 4514973652442746309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 164
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe4e9ecbb6aea370800000000000000
+      internalID: 8335783285864943352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 99
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb0a38e4ea770a0800000000000000
+      internalID: -6883841853173482376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 99
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ecb8d906677940800000000000000
+      internalID: 5293812079474304875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 99
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a9235d99605a130800000000000000
+      internalID: 3577272736792353407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 98
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99691a0bca916e0800000000000000
+      internalID: -1866270695943136842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbaa31b8ab971680800000000000000
+      internalID: -8784381399332639754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e5887f0e69e1730800000000000000
+      internalID: 3971777814357106216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 99
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cc70cbe969e8820800000000000000
+      internalID: 2922438816713657370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 98
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6a3493ca158480800000000000000
+      internalID: -8897676061492744277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 99
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da4523f23ad65180800000000000000
+      internalID: -9126867682457204008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 36
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022be57ead65a4080800000000000000
+      internalID: -9202447390393585120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e1d813fb18ae00800000000000000
+      internalID: 1056124843525793944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 35
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2c045e8a225f550800000000000000
+      internalID: 6193894971314062073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 36
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaac25ad4f4b0630800000000000000
+      internalID: 3894293497694169851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 36
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d8bbe569f0dfbf0800000000000000
+      internalID: -289057662572982926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 35
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020125696095a8320800000000000000
+      internalID: 2560957222940184608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 35
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7cf1735eb125370800000000000000
+      internalID: 8309734933738276832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 36
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8fafc0997bf630800000000000000
+      internalID: 3961893960069122758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stetson_banded_f_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 36
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8923da95c07cb36b0800000000000000
+      internalID: -5315436079322680680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

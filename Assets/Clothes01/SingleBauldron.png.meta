@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: e6a28c4cea1a8fd47826fe92f0ea35f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1130154442672212079
+    second: SingleBauldron_0
+  - first:
+      213: -349784191602765987
+    second: SingleBauldron_1
+  - first:
+      213: -4169108855826525328
+    second: SingleBauldron_2
+  - first:
+      213: -79709092353791281
+    second: SingleBauldron_3
+  - first:
+      213: 4463077527829865281
+    second: SingleBauldron_4
+  - first:
+      213: 6689826315369929037
+    second: SingleBauldron_5
+  - first:
+      213: -2874300451193556672
+    second: SingleBauldron_6
+  - first:
+      213: -6456456500674092121
+    second: SingleBauldron_7
+  - first:
+      213: 5362971767917607093
+    second: SingleBauldron_8
+  - first:
+      213: -2804861710782832176
+    second: SingleBauldron_9
+  - first:
+      213: 882532727413467517
+    second: SingleBauldron_10
+  - first:
+      213: 3972079276991900075
+    second: SingleBauldron_11
+  - first:
+      213: 8385663393608505615
+    second: SingleBauldron_12
+  - first:
+      213: 6388120995584775972
+    second: SingleBauldron_13
+  - first:
+      213: 358749513936428561
+    second: SingleBauldron_14
+  - first:
+      213: 6556158542920510479
+    second: SingleBauldron_15
+  - first:
+      213: -7492421590245931429
+    second: SingleBauldron_16
+  - first:
+      213: 1401590203201874595
+    second: SingleBauldron_17
+  - first:
+      213: 841568672796435547
+    second: SingleBauldron_18
+  - first:
+      213: 6013222152751711252
+    second: SingleBauldron_19
+  - first:
+      213: 687818699090325285
+    second: SingleBauldron_20
+  - first:
+      213: -7138386741664779642
+    second: SingleBauldron_21
+  - first:
+      213: 6671592061159164500
+    second: SingleBauldron_22
+  - first:
+      213: 4041958063941085932
+    second: SingleBauldron_23
+  - first:
+      213: 1270864452181859389
+    second: SingleBauldron_24
+  - first:
+      213: 3942766930505347097
+    second: SingleBauldron_25
+  - first:
+      213: -4330759511269733325
+    second: SingleBauldron_26
+  - first:
+      213: 4405165656447646891
+    second: SingleBauldron_27
+  - first:
+      213: 403074338511179765
+    second: SingleBauldron_28
+  - first:
+      213: 1014097706566122802
+    second: SingleBauldron_29
+  - first:
+      213: 2577201296819122510
+    second: SingleBauldron_30
+  - first:
+      213: 4718188029739747763
+    second: SingleBauldron_31
+  - first:
+      213: -7307096372579061776
+    second: SingleBauldron_32
+  - first:
+      213: -5196592832049993911
+    second: SingleBauldron_33
+  - first:
+      213: -6465177115358823615
+    second: SingleBauldron_34
+  - first:
+      213: -6427414059307751697
+    second: SingleBauldron_35
+  - first:
+      213: -1018806731749374696
+    second: SingleBauldron_36
+  - first:
+      213: 7184355937943753862
+    second: SingleBauldron_37
+  - first:
+      213: -379005152707577998
+    second: SingleBauldron_38
+  - first:
+      213: 1605585322560110497
+    second: SingleBauldron_39
+  - first:
+      213: 4282042406416799955
+    second: SingleBauldron_40
+  - first:
+      213: 3165588107752861132
+    second: SingleBauldron_41
+  - first:
+      213: -3669548383595777472
+    second: SingleBauldron_42
+  - first:
+      213: -3201567063543960596
+    second: SingleBauldron_43
+  - first:
+      213: -1110503000266074897
+    second: SingleBauldron_44
+  - first:
+      213: -7158617689721821353
+    second: SingleBauldron_45
+  - first:
+      213: -8232047824954925782
+    second: SingleBauldron_46
+  - first:
+      213: 6098021841358179147
+    second: SingleBauldron_47
+  - first:
+      213: 5968928740757794364
+    second: SingleBauldron_48
+  - first:
+      213: -7936119621369141561
+    second: SingleBauldron_49
+  - first:
+      213: 3289873672131656428
+    second: SingleBauldron_50
+  - first:
+      213: 5067048057531252752
+    second: SingleBauldron_51
+  - first:
+      213: 4840843893506706001
+    second: SingleBauldron_52
+  - first:
+      213: 4687051275180479445
+    second: SingleBauldron_53
+  - first:
+      213: -9147595931798236907
+    second: SingleBauldron_54
+  - first:
+      213: -1496615681250816888
+    second: SingleBauldron_55
+  - first:
+      213: 1021238525239834387
+    second: SingleBauldron_56
+  - first:
+      213: 2029779850089979859
+    second: SingleBauldron_57
+  - first:
+      213: -6804080198308579458
+    second: SingleBauldron_58
+  - first:
+      213: 4955094301795854670
+    second: SingleBauldron_59
+  - first:
+      213: -6724322419773576234
+    second: SingleBauldron_60
+  - first:
+      213: 3804960405618469641
+    second: SingleBauldron_61
+  - first:
+      213: -4646726610919714633
+    second: SingleBauldron_62
+  - first:
+      213: -8301665605348376392
+    second: SingleBauldron_63
+  - first:
+      213: 1377842934738624088
+    second: SingleBauldron_64
+  - first:
+      213: -9065475606070358554
+    second: SingleBauldron_65
+  - first:
+      213: -2451849965088277895
+    second: SingleBauldron_66
+  - first:
+      213: -4232112850065202640
+    second: SingleBauldron_67
+  - first:
+      213: 4816937515404866792
+    second: SingleBauldron_68
+  - first:
+      213: -8977560669372005360
+    second: SingleBauldron_69
+  - first:
+      213: -1030390762219642260
+    second: SingleBauldron_70
+  - first:
+      213: 3084323544512798122
+    second: SingleBauldron_71
+  - first:
+      213: -8360560835576469371
+    second: SingleBauldron_72
+  - first:
+      213: -1730258939790871383
+    second: SingleBauldron_73
+  - first:
+      213: 8786513673605963031
+    second: SingleBauldron_74
+  - first:
+      213: -6797142111579318978
+    second: SingleBauldron_75
+  - first:
+      213: 2069501414954149627
+    second: SingleBauldron_76
+  - first:
+      213: -3897948971409221221
+    second: SingleBauldron_77
+  - first:
+      213: -2948673343944884844
+    second: SingleBauldron_78
+  - first:
+      213: -9017538281056486823
+    second: SingleBauldron_79
+  - first:
+      213: 6470130032136158271
+    second: SingleBauldron_80
+  - first:
+      213: 2570785945217313198
+    second: SingleBauldron_81
+  - first:
+      213: 6207015329482866585
+    second: SingleBauldron_82
+  - first:
+      213: 8909703022223021955
+    second: SingleBauldron_83
+  - first:
+      213: 4936646281935860755
+    second: SingleBauldron_84
+  - first:
+      213: 5832954908680961917
+    second: SingleBauldron_85
+  - first:
+      213: -5721005695222254040
+    second: SingleBauldron_86
+  - first:
+      213: 980829709548422825
+    second: SingleBauldron_87
+  - first:
+      213: -4167392403571614534
+    second: SingleBauldron_88
+  - first:
+      213: -3413305328551075247
+    second: SingleBauldron_89
+  - first:
+      213: -7341419354884352568
+    second: SingleBauldron_90
+  - first:
+      213: -4387920695740765982
+    second: SingleBauldron_91
+  - first:
+      213: -6429907693937073402
+    second: SingleBauldron_92
+  - first:
+      213: 122886935252403092
+    second: SingleBauldron_93
+  - first:
+      213: -2430905727873495635
+    second: SingleBauldron_94
+  - first:
+      213: 2608276626560965551
+    second: SingleBauldron_95
+  - first:
+      213: 3971138826452540695
+    second: SingleBauldron_96
+  - first:
+      213: -4217406949724480138
+    second: SingleBauldron_97
+  - first:
+      213: -5239700093111739993
+    second: SingleBauldron_98
+  - first:
+      213: -7051128034033799170
+    second: SingleBauldron_99
+  - first:
+      213: -4039420867766643337
+    second: SingleBauldron_100
+  - first:
+      213: 2966778051145276104
+    second: SingleBauldron_101
+  - first:
+      213: -5772995249429371986
+    second: SingleBauldron_102
+  - first:
+      213: 9180192374456638731
+    second: SingleBauldron_103
+  - first:
+      213: 6073422590240879356
+    second: SingleBauldron_104
+  - first:
+      213: 8679335315717107144
+    second: SingleBauldron_105
+  - first:
+      213: -6997436399796436125
+    second: SingleBauldron_106
+  - first:
+      213: 8510359048529634692
+    second: SingleBauldron_107
+  - first:
+      213: -8336902650288164531
+    second: SingleBauldron_108
+  - first:
+      213: -1669058307029535669
+    second: SingleBauldron_109
+  - first:
+      213: -118322948981203052
+    second: SingleBauldron_110
+  - first:
+      213: -8794824588536765607
+    second: SingleBauldron_111
+  - first:
+      213: 4414191714649355883
+    second: SingleBauldron_112
+  - first:
+      213: 2161222973360170527
+    second: SingleBauldron_113
+  - first:
+      213: -4745636649578214058
+    second: SingleBauldron_114
+  - first:
+      213: 1546587586477653786
+    second: SingleBauldron_115
+  - first:
+      213: -4979590241196513684
+    second: SingleBauldron_116
+  - first:
+      213: -1441831546352908411
+    second: SingleBauldron_117
+  - first:
+      213: -8514235444802638099
+    second: SingleBauldron_118
+  - first:
+      213: -1272959174934095417
+    second: SingleBauldron_119
+  - first:
+      213: -6820582105730567020
+    second: SingleBauldron_120
+  - first:
+      213: 3268666806888005762
+    second: SingleBauldron_121
+  - first:
+      213: 2182490435430355354
+    second: SingleBauldron_122
+  - first:
+      213: -4868944768392624492
+    second: SingleBauldron_123
+  - first:
+      213: 5398179410214991010
+    second: SingleBauldron_124
+  - first:
+      213: -1738700317763905016
+    second: SingleBauldron_125
+  - first:
+      213: 3966860280418813806
+    second: SingleBauldron_126
+  - first:
+      213: -526462055111224112
+    second: SingleBauldron_127
+  - first:
+      213: -4370990347764935750
+    second: SingleBauldron_128
+  - first:
+      213: -1357324902876943006
+    second: SingleBauldron_129
+  - first:
+      213: 4234783166951872586
+    second: SingleBauldron_130
+  - first:
+      213: -6763096561125327550
+    second: SingleBauldron_131
+  - first:
+      213: -2035127913908543976
+    second: SingleBauldron_132
+  - first:
+      213: 2003425876873304193
+    second: SingleBauldron_133
+  - first:
+      213: -5648532903201573644
+    second: SingleBauldron_134
+  - first:
+      213: 6333307420696663588
+    second: SingleBauldron_135
+  - first:
+      213: -2845794535112325506
+    second: SingleBauldron_136
+  - first:
+      213: 621832846701842028
+    second: SingleBauldron_137
+  - first:
+      213: 4967682834995739156
+    second: SingleBauldron_138
+  - first:
+      213: 4520744430137433472
+    second: SingleBauldron_139
+  - first:
+      213: -942895874436854058
+    second: SingleBauldron_140
+  - first:
+      213: -8793176670874955697
+    second: SingleBauldron_141
+  - first:
+      213: -8334461667142201891
+    second: SingleBauldron_142
+  - first:
+      213: -2953785795270528029
+    second: SingleBauldron_143
+  - first:
+      213: -8186523553232799107
+    second: SingleBauldron_144
+  - first:
+      213: -7244788072511961842
+    second: SingleBauldron_145
+  - first:
+      213: -1820695734612506890
+    second: SingleBauldron_146
+  - first:
+      213: -4836774148555897877
+    second: SingleBauldron_147
+  - first:
+      213: 5731138272945804331
+    second: SingleBauldron_148
+  - first:
+      213: -3135778777662954723
+    second: SingleBauldron_149
+  - first:
+      213: -141903615559044280
+    second: SingleBauldron_150
+  - first:
+      213: -8589922424427106725
+    second: SingleBauldron_151
+  - first:
+      213: -6325012599083972191
+    second: SingleBauldron_152
+  - first:
+      213: 5952344477253778974
+    second: SingleBauldron_153
+  - first:
+      213: -6897861972123872070
+    second: SingleBauldron_154
+  - first:
+      213: -3729170007293345374
+    second: SingleBauldron_155
+  - first:
+      213: -4321453513907952029
+    second: SingleBauldron_156
+  - first:
+      213: -8034999479075010920
+    second: SingleBauldron_157
+  - first:
+      213: -909153413593457553
+    second: SingleBauldron_158
+  - first:
+      213: 9002417310341334147
+    second: SingleBauldron_159
+  - first:
+      213: 6573274625510696972
+    second: SingleBauldron_160
+  - first:
+      213: -7745728711111621642
+    second: SingleBauldron_161
+  - first:
+      213: 5661030798470053329
+    second: SingleBauldron_162
+  - first:
+      213: -3248308658081713048
+    second: SingleBauldron_163
+  - first:
+      213: -6638385395543697853
+    second: SingleBauldron_164
+  - first:
+      213: -1866267806591523297
+    second: SingleBauldron_165
+  - first:
+      213: 6682563709935057584
+    second: SingleBauldron_166
+  - first:
+      213: 8752546060590423162
+    second: SingleBauldron_167
+  - first:
+      213: -5225631536662559084
+    second: SingleBauldron_168
+  - first:
+      213: 4982981928055054167
+    second: SingleBauldron_169
+  - first:
+      213: -5107945154885184380
+    second: SingleBauldron_170
+  - first:
+      213: 3466949708541112929
+    second: SingleBauldron_171
+  - first:
+      213: -1798486361477044552
+    second: SingleBauldron_172
+  - first:
+      213: 4212173697547770991
+    second: SingleBauldron_173
+  - first:
+      213: 6155484520054991580
+    second: SingleBauldron_174
+  - first:
+      213: -3513405621271064855
+    second: SingleBauldron_175
+  - first:
+      213: -8198069646997200176
+    second: SingleBauldron_176
+  - first:
+      213: -4901867540147767692
+    second: SingleBauldron_177
+  - first:
+      213: 7276636637260510613
+    second: SingleBauldron_178
+  - first:
+      213: -4762942991202350713
+    second: SingleBauldron_179
+  - first:
+      213: -7576525525379441606
+    second: SingleBauldron_180
+  - first:
+      213: 7152208160300637610
+    second: SingleBauldron_181
+  - first:
+      213: -8473454676856355030
+    second: SingleBauldron_182
+  - first:
+      213: 6321110294463459926
+    second: SingleBauldron_183
+  - first:
+      213: -8203458807082460360
+    second: SingleBauldron_184
+  - first:
+      213: -3745190110003849017
+    second: SingleBauldron_185
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SingleBauldron_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1298
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197713fa582e050f0800000000000000
+      internalID: -1130154442672212079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1298
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f48778121552bf0800000000000000
+      internalID: -349784191602765987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1298
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0735682a5995426c0800000000000000
+      internalID: -4169108855826525328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1298
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca22e8b001d4eef0800000000000000
+      internalID: -79709092353791281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1298
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e35b7d5900fd30800000000000000
+      internalID: 4463077527829865281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1298
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d495fa0f69907dc50800000000000000
+      internalID: 6689826315369929037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1298
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041fcd4e7fe6c18d0800000000000000
+      internalID: -2874300451193556672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1234
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a32f89350f0666a0800000000000000
+      internalID: -6456456500674092121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1235
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b87d2f986a1d6a40800000000000000
+      internalID: 5362971767917607093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1e1b482212319d0800000000000000
+      internalID: -2804861710782832176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1234
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e228f6d26f3c00800000000000000
+      internalID: 882532727413467517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1234
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9eac4be09af1730800000000000000
+      internalID: 3972079276991900075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1234
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0918066d6cdf5470800000000000000
+      internalID: 8385663393608505615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1234
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4279b04233a27a850800000000000000
+      internalID: 6388120995584775972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e568d38c88af400800000000000000
+      internalID: 358749513936428561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6be175772cfa50800000000000000
+      internalID: 6556158542920510479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b568ced9242950890800000000000000
+      internalID: -7492421590245931429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae3862dd2737310800000000000000
+      internalID: 1401590203201874595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_18
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e024cf3addab00800000000000000
+      internalID: 841568672796435547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1171
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414864240b1437350800000000000000
+      internalID: 6013222152751711252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1171
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f662d667f9b8900800000000000000
+      internalID: 687818699090325285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1171
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68276b9441b5fec90800000000000000
+      internalID: -7138386741664779642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1171
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a45bbc1a1469c50800000000000000
+      internalID: 6671592061159164500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1171
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaeb36a17be71830800000000000000
+      internalID: 4041958063941085932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1171
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c98f56c7403a110800000000000000
+      internalID: 1270864452181859389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1171
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910bde432a587b630800000000000000
+      internalID: 3942766930505347097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1105
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c8f1b7b2d06e3c0800000000000000
+      internalID: -4330759511269733325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1105
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacff4133da422d30800000000000000
+      internalID: 4405165656447646891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1105
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc80da9f1089500800000000000000
+      internalID: 403074338511179765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1105
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d796fbd7cc21e00800000000000000
+      internalID: 1014097706566122802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1105
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417493ccee04c320800000000000000
+      internalID: 2577201296819122510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1105
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94328d30f5a7140800000000000000
+      internalID: 4718188029739747763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1105
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff21e4509af79a90800000000000000
+      internalID: -7307096372579061776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1042
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947a15b1a5ef1e7b0800000000000000
+      internalID: -5196592832049993911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1041
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7d05eaa31746a0800000000000000
+      internalID: -6465177115358823615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1042
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe62c9a87fc3dc6a0800000000000000
+      internalID: -6427414059307751697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1042
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8154d43eca87cd1f0800000000000000
+      internalID: -1018806731749374696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1042
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6841b1549a5f3b360800000000000000
+      internalID: 7184355937943753862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1042
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27772d852d08dbaf0800000000000000
+      internalID: -379005152707577998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1042
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb6c7185f284610800000000000000
+      internalID: 1605585322560110497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1042
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d1a3a1eedc6b30800000000000000
+      internalID: 4282042406416799955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 978
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6fcbac9d6eeb20800000000000000
+      internalID: 3165588107752861132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 978
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0423aadef25231dc0800000000000000
+      internalID: -3669548383595777472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 978
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2fd4e7bfb193d0800000000000000
+      internalID: -3201567063543960596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_44
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 984
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4922ba763b690f0800000000000000
+      internalID: -1110503000266074897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 978
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ad41a32b77ac90800000000000000
+      internalID: -7158617689721821353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 978
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dd8835e14e1cd80800000000000000
+      internalID: -8232047824954925782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 978
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4ab65e8680a450800000000000000
+      internalID: 6098021841358179147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_48
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 984
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eec72a015e5d250800000000000000
+      internalID: 5968928740757794364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 978
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6e841704d3dd190800000000000000
+      internalID: -7936119621369141561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_50
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 978
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea315f9caaf7ad20800000000000000
+      internalID: 3289873672131656428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 915
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010cbf8ac55c15640800000000000000
+      internalID: 5067048057531252752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 915
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a069d8fd12e2340800000000000000
+      internalID: 4840843893506706001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_53
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 915
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d39c2d3d40cb0140800000000000000
+      internalID: 4687051275180479445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 914
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119b5057f53d0180800000000000000
+      internalID: -9147595931798236907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 914
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c04c1a7f3fa3be0800000000000000
+      internalID: -1496615681250816888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 914
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3173dd7270b2c2e00800000000000000
+      internalID: 1021238525239834387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 915
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfdbd8f40a3b2c10800000000000000
+      internalID: 2029779850089979859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 914
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e773c84fb1d0391a0800000000000000
+      internalID: -6804080198308579458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 849
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49aa17a30804c440800000000000000
+      internalID: 4955094301795854670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 849
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db633ed2686ea2a0800000000000000
+      internalID: -6724322419773576234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 849
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ba051545fedc430800000000000000
+      internalID: 3804960405618469641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 850
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b096cb44c2838fb0800000000000000
+      internalID: -4646726610919714633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_63
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 855
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c125bd1f8acc80800000000000000
+      internalID: -8301665605348376392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_64
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 849
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e906959d41f1310800000000000000
+      internalID: 1377842934738624088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_65
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 855
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed053c97f5f03280800000000000000
+      internalID: -9065475606070358554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_66
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 850
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afb5c727749fdd0800000000000000
+      internalID: -2451849965088277895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 849
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0326f7a19c38445c0800000000000000
+      internalID: -4232112850065202640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 849
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b5f6262339d240800000000000000
+      internalID: 4816937515404866792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 787
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144098e22c496380800000000000000
+      internalID: -8977560669372005360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 787
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ed0e9f0153b1f0800000000000000
+      internalID: -1030390762219642260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 787
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1f0b1ce7bdca20800000000000000
+      internalID: 3084323544512798122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 786
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588eb68573259fb80800000000000000
+      internalID: -8360560835576469371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_73
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 787
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4325c59a2ecf7e0800000000000000
+      internalID: -1730258939790871383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 787
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d556912a7ffe970800000000000000
+      internalID: 8786513673605963031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 787
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3557772343bba1a0800000000000000
+      internalID: -6797142111579318978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 786
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a28c729858bc10800000000000000
+      internalID: 2069501414954149627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 787
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99dd8e0014b7e9c0800000000000000
+      internalID: -3897948971409221221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_78
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 722
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d708767353417d0800000000000000
+      internalID: -2948673343944884844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_79
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 722
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3429d5b44bd280800000000000000
+      internalID: -9017538281056486823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 722
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cff08ebf48ac950800000000000000
+      internalID: 6470130032136158271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 722
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ae3252344da320800000000000000
+      internalID: 2570785945217313198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 722
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ffa355e8fb32650800000000000000
+      internalID: 6207015329482866585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_83
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 721
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387d3dd61bf95ab70800000000000000
+      internalID: 8909703022223021955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_84
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 722
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143a8053ad728440800000000000000
+      internalID: 4936646281935860755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_85
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 722
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fbccac591d2f050800000000000000
+      internalID: 5832954908680961917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_86
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 722
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8267a42a1a7ea90b0800000000000000
+      internalID: -5721005695222254040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 659
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a688c69c6b9c9d00800000000000000
+      internalID: 980829709548422825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 659
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd37150b27a26c0800000000000000
+      internalID: -4167392403571614534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 659
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152e3cd53e081a0d0800000000000000
+      internalID: -3413305328551075247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 658
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5d0f44ef90e1a90800000000000000
+      internalID: -7341419354884352568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 659
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e869cb1069fa13c0800000000000000
+      internalID: -4387920695740765982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 659
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603645cf40164c6a0800000000000000
+      internalID: -6429907693937073402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 659
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493814b340594b100800000000000000
+      internalID: 122886935252403092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 658
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad43a7be10b34ed0800000000000000
+      internalID: -2430905727873495635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_95
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 659
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabde1ac5c5723420800000000000000
+      internalID: 2608276626560965551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_96
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 593
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d177009b15c1730800000000000000
+      internalID: 3971138826452540695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_97
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 592
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d986859b2c875c0800000000000000
+      internalID: -4217406949724480138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 592
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95e74c688d847b0800000000000000
+      internalID: -5239700093111739993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 593
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effed99596c552e90800000000000000
+      internalID: -7051128034033799170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 593
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775187e5f1811f7c0800000000000000
+      internalID: -4039420867766643337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 593
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca90f93bec1c2920800000000000000
+      internalID: 2966778051145276104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_102
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 593
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3aeb3486332efa0800000000000000
+      internalID: -5772995249429371986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_103
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 593
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ddc396358966f70800000000000000
+      internalID: 9180192374456638731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_104
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 593
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2f32edaa1294450800000000000000
+      internalID: 6073422590240879356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_105
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 530
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd22db0c71337870800000000000000
+      internalID: 8679335315717107144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_106
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 529
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363cebb1bac14ee90800000000000000
+      internalID: -6997436399796436125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 529
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e3aef67eda1670800000000000000
+      internalID: 8510359048529634692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_108
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 530
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41bf8ad53f5d4c80800000000000000
+      internalID: -8336902650288164531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_109
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 530
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f614105056d8e0800000000000000
+      internalID: -1669058307029535669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_110
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 530
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd231a7e1ab5ef0800000000000000
+      internalID: -118322948981203052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 466
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953256a32a182f580800000000000000
+      internalID: -8794824588536765607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_112
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 464
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b5222afb524d30800000000000000
+      internalID: 4414191714649355883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_113
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 465
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16eb87f7d43efd10800000000000000
+      internalID: 2161222973360170527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_114
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 465
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc0d45c9c142eb0800000000000000
+      internalID: -4745636649578214058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_115
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 465
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f770a3735967510800000000000000
+      internalID: 1546587586477653786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 465
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ea720f01f4eab0800000000000000
+      internalID: -4979590241196513684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_117
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 403
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587cea509d59dfbe0800000000000000
+      internalID: -1441831546352908411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_118
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 403
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeaf7a29fb57d980800000000000000
+      internalID: -8514235444802638099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_119
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 401
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c99a74ff5a855ee0800000000000000
+      internalID: -1272959174934095417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_120
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 402
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4943b8a36bc6851a0800000000000000
+      internalID: -6820582105730567020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_121
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 403
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808ba98423ac5d20800000000000000
+      internalID: 3268666806888005762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_122
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 403
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919389dc73c94e10800000000000000
+      internalID: 2182490435430355354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_123
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 337
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49606f8a7880e6cb0800000000000000
+      internalID: -4868944768392624492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_124
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 335
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a431b3a29f2aea40800000000000000
+      internalID: 5398179410214991010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad2d4e545eed7e0800000000000000
+      internalID: -1738700317763905016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_126
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 337
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6748ff586e1d0730800000000000000
+      internalID: 3966860280418813806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_127
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 337
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49f59dc81a1b8f0800000000000000
+      internalID: -526462055111224112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_128
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 337
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab35fccef6f1753c0800000000000000
+      internalID: -4370990347764935750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_129
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 274
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d6a373130d92de0800000000000000
+      internalID: -1357324902876943006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_130
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 273
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4858fe7ad8f4ca30800000000000000
+      internalID: 4234783166951872586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_131
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 273
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d75749287a422a0800000000000000
+      internalID: -6763096561125327550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_132
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 275
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81edff2e1f5c1c3e0800000000000000
+      internalID: -2035127913908543976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_133
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 275
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188dbdc68399dcb10800000000000000
+      internalID: 2003425876873304193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_134
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 275
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4709270416c91b0800000000000000
+      internalID: -5648532903201573644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_135
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 275
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42658f73b8d64e750800000000000000
+      internalID: 6333307420696663588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_136
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 275
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76c1eea2f4b188d0800000000000000
+      internalID: -2845794535112325506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_137
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 275
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e4551fda131a800800000000000000
+      internalID: 621832846701842028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_138
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 275
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af9b0f731c0f440800000000000000
+      internalID: 4967682834995739156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_139
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 274
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ddaa67b19ecbe30800000000000000
+      internalID: 4520744430137433472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_140
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 275
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de8208a2392ae2f0800000000000000
+      internalID: -942895874436854058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_141
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 275
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f401f35f76c58f580800000000000000
+      internalID: -8793176670874955697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_142
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 210
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd01e7854b065c80800000000000000
+      internalID: -8334461667142201891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_143
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33e42187b0207d0800000000000000
+      internalID: -2953785795270528029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_144
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 210
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ab030d330a36e80800000000000000
+      internalID: -8186523553232799107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_145
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0500f0f1a7557b90800000000000000
+      internalID: -7244788072511961842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_146
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 210
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f64a5630e69bb6e0800000000000000
+      internalID: -1820695734612506890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_147
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 210
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be38888c98350ecb0800000000000000
+      internalID: -4836774148555897877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_148
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 210
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249495f4e7198f40800000000000000
+      internalID: 5731138272945804331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_149
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 210
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e037d0d97b74d0800000000000000
+      internalID: -3135778777662954723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_150
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 210
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843724ad96bd70ef0800000000000000
+      internalID: -141903615559044280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_151
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 145
+        width: 16
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e2cdbf0177ac880800000000000000
+      internalID: -8589922424427106725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_152
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 209
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9cabf6d8a0938a0800000000000000
+      internalID: -6325012599083972191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_153
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e3873e3c9fa9250800000000000000
+      internalID: 5952344477253778974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_154
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 209
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab491e1351fd540a0800000000000000
+      internalID: -6897861972123872070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 147
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a14d38e2a35f3cc0800000000000000
+      internalID: -3729170007293345374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_156
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 147
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3662726dcec1704c0800000000000000
+      internalID: -4321453513907952029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_157
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 147
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89609478b82fd7090800000000000000
+      internalID: -8034999479075010920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_158
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9d6889c90263f0800000000000000
+      internalID: -909153413593457553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_159
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 145
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38409bec8d20fec70800000000000000
+      internalID: 9002417310341334147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_160
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 144
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0867a8f176f83b50800000000000000
+      internalID: 6573274625510696972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_161
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 144
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c5af96c4a18490800000000000000
+      internalID: -7745728711111621642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_162
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 144
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7a5d8485009e40800000000000000
+      internalID: 5661030798470053329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_163
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 145
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b63a5c70bbe2d0800000000000000
+      internalID: -3248308658081713048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_164
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 145
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3461a7887a7bfd3a0800000000000000
+      internalID: -6638385395543697853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_165
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 145
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166d5c515fa916e0800000000000000
+      internalID: -1866267806591523297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_166
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 145
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba7897d94c3dbc50800000000000000
+      internalID: 6682563709935057584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_167
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c9cb5e44a477970800000000000000
+      internalID: 8752546060590423162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_168
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4964622ddc3da77b0800000000000000
+      internalID: -5225631536662559084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_169
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 81
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f99ef99ab172540800000000000000
+      internalID: 4982981928055054167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_170
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 81
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48414e6d1feec19b0800000000000000
+      internalID: -5107945154885184380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_171
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 81
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162bcb724641d1030800000000000000
+      internalID: 3466949708541112929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_172
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 82
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a6cade2e7a07e0800000000000000
+      internalID: -1798486361477044552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_173
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 81
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c149e29a5a47a30800000000000000
+      internalID: 4212173697547770991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_174
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2b4ece8cac6550800000000000000
+      internalID: 6155484520054991580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_175
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 81
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee0748c330ed3fc0800000000000000
+      internalID: -3513405621271064855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_176
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 81
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e1de571b9a3e80800000000000000
+      internalID: -8198069646997200176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_177
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 81
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4767975817119fbb0800000000000000
+      internalID: -4901867540147767692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_178
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 86
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5957183e77ecbf460800000000000000
+      internalID: 7276636637260510613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_179
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 81
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78982fba590a6edb0800000000000000
+      internalID: -4762942991202350713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_180
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c14144d26cad690800000000000000
+      internalID: -7576525525379441606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_181
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 17
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad9e528d6fb14360800000000000000
+      internalID: 7152208160300637610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_182
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 13
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ca9d9ddd386a80800000000000000
+      internalID: -8473454676856355030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_183
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 11
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523f87725819b750800000000000000
+      internalID: 6321110294463459926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_184
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 20
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bdc42cda5772e80800000000000000
+      internalID: -8203458807082460360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleBauldron_185
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c81ae41079660cc0800000000000000
+      internalID: -3745190110003849017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

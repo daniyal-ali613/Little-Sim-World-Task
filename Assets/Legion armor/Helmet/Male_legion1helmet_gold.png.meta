@@ -1,0 +1,4484 @@
+fileFormatVersion: 2
+guid: b8d4643218a6d694881e3ae463f4b286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 302971981739844577
+    second: Male_legion1helmet_gold_0
+  - first:
+      213: -3528225492192584842
+    second: Male_legion1helmet_gold_1
+  - first:
+      213: -7098589237267999985
+    second: Male_legion1helmet_gold_2
+  - first:
+      213: -4475708140843522490
+    second: Male_legion1helmet_gold_3
+  - first:
+      213: 9131322436943986411
+    second: Male_legion1helmet_gold_4
+  - first:
+      213: 1804058116951325586
+    second: Male_legion1helmet_gold_5
+  - first:
+      213: 2454218490442262227
+    second: Male_legion1helmet_gold_6
+  - first:
+      213: 4395655848995043267
+    second: Male_legion1helmet_gold_7
+  - first:
+      213: -1306722443704325428
+    second: Male_legion1helmet_gold_8
+  - first:
+      213: -5969127148467907107
+    second: Male_legion1helmet_gold_9
+  - first:
+      213: 5004754455446820938
+    second: Male_legion1helmet_gold_10
+  - first:
+      213: -7929549818672891836
+    second: Male_legion1helmet_gold_11
+  - first:
+      213: -7642112240824703721
+    second: Male_legion1helmet_gold_12
+  - first:
+      213: -8687032633574003312
+    second: Male_legion1helmet_gold_13
+  - first:
+      213: -6479911180601091335
+    second: Male_legion1helmet_gold_14
+  - first:
+      213: 8826889010564482326
+    second: Male_legion1helmet_gold_15
+  - first:
+      213: 457595511846273298
+    second: Male_legion1helmet_gold_16
+  - first:
+      213: -30220047430358516
+    second: Male_legion1helmet_gold_17
+  - first:
+      213: -7311131696962875471
+    second: Male_legion1helmet_gold_18
+  - first:
+      213: 1420156849321325574
+    second: Male_legion1helmet_gold_19
+  - first:
+      213: 8524278507874731726
+    second: Male_legion1helmet_gold_20
+  - first:
+      213: 8018689358952094462
+    second: Male_legion1helmet_gold_21
+  - first:
+      213: 8740849076951186053
+    second: Male_legion1helmet_gold_22
+  - first:
+      213: 4569246677424446760
+    second: Male_legion1helmet_gold_23
+  - first:
+      213: -1215424636690479203
+    second: Male_legion1helmet_gold_24
+  - first:
+      213: -3166366740088616371
+    second: Male_legion1helmet_gold_25
+  - first:
+      213: 5997891889946694682
+    second: Male_legion1helmet_gold_26
+  - first:
+      213: 5119271939560227750
+    second: Male_legion1helmet_gold_27
+  - first:
+      213: -5087901992494516291
+    second: Male_legion1helmet_gold_28
+  - first:
+      213: 108883206904668515
+    second: Male_legion1helmet_gold_29
+  - first:
+      213: 7312415415909147308
+    second: Male_legion1helmet_gold_30
+  - first:
+      213: 6372400140478954875
+    second: Male_legion1helmet_gold_31
+  - first:
+      213: 7483097091167415192
+    second: Male_legion1helmet_gold_32
+  - first:
+      213: -3439856344227164188
+    second: Male_legion1helmet_gold_33
+  - first:
+      213: 1772535613517162689
+    second: Male_legion1helmet_gold_34
+  - first:
+      213: 7270770308275114398
+    second: Male_legion1helmet_gold_35
+  - first:
+      213: -4516612519032833919
+    second: Male_legion1helmet_gold_36
+  - first:
+      213: -4995909548279484958
+    second: Male_legion1helmet_gold_37
+  - first:
+      213: 3687592794476381388
+    second: Male_legion1helmet_gold_38
+  - first:
+      213: 8698965397273632904
+    second: Male_legion1helmet_gold_39
+  - first:
+      213: -311733079811156944
+    second: Male_legion1helmet_gold_40
+  - first:
+      213: 6968483839123136395
+    second: Male_legion1helmet_gold_41
+  - first:
+      213: 7507209920734891434
+    second: Male_legion1helmet_gold_42
+  - first:
+      213: -5126532134140685604
+    second: Male_legion1helmet_gold_43
+  - first:
+      213: -60193902457681641
+    second: Male_legion1helmet_gold_44
+  - first:
+      213: 2334891176327603868
+    second: Male_legion1helmet_gold_45
+  - first:
+      213: -6800021335529929221
+    second: Male_legion1helmet_gold_46
+  - first:
+      213: 5577412578185741347
+    second: Male_legion1helmet_gold_47
+  - first:
+      213: -3907331914299592064
+    second: Male_legion1helmet_gold_48
+  - first:
+      213: 31405134594233514
+    second: Male_legion1helmet_gold_49
+  - first:
+      213: -7414170879289155579
+    second: Male_legion1helmet_gold_50
+  - first:
+      213: -6369265170906373329
+    second: Male_legion1helmet_gold_51
+  - first:
+      213: 1113506485606211724
+    second: Male_legion1helmet_gold_52
+  - first:
+      213: -2922958702526995476
+    second: Male_legion1helmet_gold_53
+  - first:
+      213: -5790499285595200418
+    second: Male_legion1helmet_gold_54
+  - first:
+      213: -6219138395380085587
+    second: Male_legion1helmet_gold_55
+  - first:
+      213: -1771685308041162599
+    second: Male_legion1helmet_gold_56
+  - first:
+      213: -4888639496982488610
+    second: Male_legion1helmet_gold_57
+  - first:
+      213: 1488042294422893277
+    second: Male_legion1helmet_gold_58
+  - first:
+      213: 5092956942498455949
+    second: Male_legion1helmet_gold_59
+  - first:
+      213: 4117153150433834999
+    second: Male_legion1helmet_gold_60
+  - first:
+      213: 414244257128095141
+    second: Male_legion1helmet_gold_61
+  - first:
+      213: -1513861988589033772
+    second: Male_legion1helmet_gold_62
+  - first:
+      213: 8508073568297574611
+    second: Male_legion1helmet_gold_63
+  - first:
+      213: 3469157834246683345
+    second: Male_legion1helmet_gold_64
+  - first:
+      213: -4388288380164004574
+    second: Male_legion1helmet_gold_65
+  - first:
+      213: 3458884114282946632
+    second: Male_legion1helmet_gold_66
+  - first:
+      213: 3401011071352740576
+    second: Male_legion1helmet_gold_67
+  - first:
+      213: 4540089537296644368
+    second: Male_legion1helmet_gold_68
+  - first:
+      213: 8228322316136009803
+    second: Male_legion1helmet_gold_69
+  - first:
+      213: -2291866502629998953
+    second: Male_legion1helmet_gold_70
+  - first:
+      213: 4574932849032561732
+    second: Male_legion1helmet_gold_71
+  - first:
+      213: -7813662682142339909
+    second: Male_legion1helmet_gold_72
+  - first:
+      213: -5521273860172856537
+    second: Male_legion1helmet_gold_73
+  - first:
+      213: -6563953128542888846
+    second: Male_legion1helmet_gold_74
+  - first:
+      213: -4183939889471097125
+    second: Male_legion1helmet_gold_75
+  - first:
+      213: -8703762658972713186
+    second: Male_legion1helmet_gold_76
+  - first:
+      213: 6634193577911853562
+    second: Male_legion1helmet_gold_77
+  - first:
+      213: -398530882214414819
+    second: Male_legion1helmet_gold_78
+  - first:
+      213: 1236367764612578215
+    second: Male_legion1helmet_gold_79
+  - first:
+      213: 5427400963873619009
+    second: Male_legion1helmet_gold_80
+  - first:
+      213: 1271325371935049564
+    second: Male_legion1helmet_gold_81
+  - first:
+      213: 5364998155395248014
+    second: Male_legion1helmet_gold_82
+  - first:
+      213: 7545235204341028935
+    second: Male_legion1helmet_gold_83
+  - first:
+      213: -7167478435882832407
+    second: Male_legion1helmet_gold_84
+  - first:
+      213: 665453291393764337
+    second: Male_legion1helmet_gold_85
+  - first:
+      213: 2217976073286364788
+    second: Male_legion1helmet_gold_86
+  - first:
+      213: -6814540030811221011
+    second: Male_legion1helmet_gold_87
+  - first:
+      213: -1146886169117503489
+    second: Male_legion1helmet_gold_88
+  - first:
+      213: -347619943146059492
+    second: Male_legion1helmet_gold_89
+  - first:
+      213: -5514881256453358021
+    second: Male_legion1helmet_gold_90
+  - first:
+      213: 7399508329891472206
+    second: Male_legion1helmet_gold_91
+  - first:
+      213: -2181211760643142110
+    second: Male_legion1helmet_gold_92
+  - first:
+      213: 3897684363170665371
+    second: Male_legion1helmet_gold_93
+  - first:
+      213: 2137899582910114839
+    second: Male_legion1helmet_gold_94
+  - first:
+      213: 5195411988281898314
+    second: Male_legion1helmet_gold_95
+  - first:
+      213: -1034237957229420918
+    second: Male_legion1helmet_gold_96
+  - first:
+      213: 6048203947610798633
+    second: Male_legion1helmet_gold_97
+  - first:
+      213: 4940692178294025290
+    second: Male_legion1helmet_gold_98
+  - first:
+      213: 5491879157938456443
+    second: Male_legion1helmet_gold_99
+  - first:
+      213: -6663903839172615483
+    second: Male_legion1helmet_gold_100
+  - first:
+      213: -2682964189609875125
+    second: Male_legion1helmet_gold_101
+  - first:
+      213: 8950940204635466443
+    second: Male_legion1helmet_gold_102
+  - first:
+      213: -5018692488282349913
+    second: Male_legion1helmet_gold_103
+  - first:
+      213: 7168579281475853340
+    second: Male_legion1helmet_gold_104
+  - first:
+      213: 2921379935780029587
+    second: Male_legion1helmet_gold_105
+  - first:
+      213: -947766505110461556
+    second: Male_legion1helmet_gold_106
+  - first:
+      213: -4184652206997405117
+    second: Male_legion1helmet_gold_107
+  - first:
+      213: -4264307880300798997
+    second: Male_legion1helmet_gold_108
+  - first:
+      213: 1666576686246701692
+    second: Male_legion1helmet_gold_109
+  - first:
+      213: 4107268421170996472
+    second: Male_legion1helmet_gold_110
+  - first:
+      213: 8277961549525952184
+    second: Male_legion1helmet_gold_111
+  - first:
+      213: 4214782446547210603
+    second: Male_legion1helmet_gold_112
+  - first:
+      213: -1263143708437766387
+    second: Male_legion1helmet_gold_113
+  - first:
+      213: -3786913870097937235
+    second: Male_legion1helmet_gold_114
+  - first:
+      213: 5344068362941623503
+    second: Male_legion1helmet_gold_115
+  - first:
+      213: -3911527807923688987
+    second: Male_legion1helmet_gold_116
+  - first:
+      213: -79810374499311139
+    second: Male_legion1helmet_gold_117
+  - first:
+      213: -750365563209801643
+    second: Male_legion1helmet_gold_118
+  - first:
+      213: 8990967964268281902
+    second: Male_legion1helmet_gold_119
+  - first:
+      213: -4569707101807972451
+    second: Male_legion1helmet_gold_120
+  - first:
+      213: -4286470696127212587
+    second: Male_legion1helmet_gold_121
+  - first:
+      213: 5008086985605246901
+    second: Male_legion1helmet_gold_122
+  - first:
+      213: 5229971549631272414
+    second: Male_legion1helmet_gold_123
+  - first:
+      213: -8272303059349862229
+    second: Male_legion1helmet_gold_124
+  - first:
+      213: 3535773915342040530
+    second: Male_legion1helmet_gold_125
+  - first:
+      213: 5434271332549628119
+    second: Male_legion1helmet_gold_126
+  - first:
+      213: -7548157491005947091
+    second: Male_legion1helmet_gold_127
+  - first:
+      213: 5260599853944708206
+    second: Male_legion1helmet_gold_128
+  - first:
+      213: -9120986795976816645
+    second: Male_legion1helmet_gold_129
+  - first:
+      213: 1508300356899376230
+    second: Male_legion1helmet_gold_130
+  - first:
+      213: 4334918860831600906
+    second: Male_legion1helmet_gold_131
+  - first:
+      213: -2519208703859285502
+    second: Male_legion1helmet_gold_132
+  - first:
+      213: -2098028541604295407
+    second: Male_legion1helmet_gold_133
+  - first:
+      213: -5903479605650632958
+    second: Male_legion1helmet_gold_134
+  - first:
+      213: 1613797194832315830
+    second: Male_legion1helmet_gold_135
+  - first:
+      213: 5029590281893355306
+    second: Male_legion1helmet_gold_136
+  - first:
+      213: 2410692143097093915
+    second: Male_legion1helmet_gold_137
+  - first:
+      213: -1998259980292876134
+    second: Male_legion1helmet_gold_138
+  - first:
+      213: 642214531593413208
+    second: Male_legion1helmet_gold_139
+  - first:
+      213: -5591838223732881484
+    second: Male_legion1helmet_gold_140
+  - first:
+      213: 6341819469458700552
+    second: Male_legion1helmet_gold_141
+  - first:
+      213: -191649148788120201
+    second: Male_legion1helmet_gold_142
+  - first:
+      213: 9105535690717412780
+    second: Male_legion1helmet_gold_143
+  - first:
+      213: 8367932858250657441
+    second: Male_legion1helmet_gold_144
+  - first:
+      213: 6424390416919548621
+    second: Male_legion1helmet_gold_145
+  - first:
+      213: 3935782496427417657
+    second: Male_legion1helmet_gold_146
+  - first:
+      213: -3418302592604095938
+    second: Male_legion1helmet_gold_147
+  - first:
+      213: 6785091257262447744
+    second: Male_legion1helmet_gold_148
+  - first:
+      213: 9015015091190156422
+    second: Male_legion1helmet_gold_149
+  - first:
+      213: -8967601369413305446
+    second: Male_legion1helmet_gold_150
+  - first:
+      213: -5029633122796470691
+    second: Male_legion1helmet_gold_151
+  - first:
+      213: 7602402774546327427
+    second: Male_legion1helmet_gold_152
+  - first:
+      213: -3056663118820116819
+    second: Male_legion1helmet_gold_153
+  - first:
+      213: -2980977976412097469
+    second: Male_legion1helmet_gold_154
+  - first:
+      213: -7809294406275346144
+    second: Male_legion1helmet_gold_155
+  - first:
+      213: -3587214005038432850
+    second: Male_legion1helmet_gold_156
+  - first:
+      213: -2224412676983336580
+    second: Male_legion1helmet_gold_157
+  - first:
+      213: -6205393458327763685
+    second: Male_legion1helmet_gold_158
+  - first:
+      213: 4516156750092011566
+    second: Male_legion1helmet_gold_159
+  - first:
+      213: 3740599905622234884
+    second: Male_legion1helmet_gold_160
+  - first:
+      213: -4648105933659943418
+    second: Male_legion1helmet_gold_161
+  - first:
+      213: -6157346049985708172
+    second: Male_legion1helmet_gold_162
+  - first:
+      213: -5431070137617333813
+    second: Male_legion1helmet_gold_163
+  - first:
+      213: -5054704011353967500
+    second: Male_legion1helmet_gold_164
+  - first:
+      213: -1251449416561981683
+    second: Male_legion1helmet_gold_165
+  - first:
+      213: 4985645943111397002
+    second: Male_legion1helmet_gold_166
+  - first:
+      213: 7825323084735445817
+    second: Male_legion1helmet_gold_167
+  - first:
+      213: -651502292698110242
+    second: Male_legion1helmet_gold_168
+  - first:
+      213: 7485998521052052556
+    second: Male_legion1helmet_gold_169
+  - first:
+      213: -3492954569098308205
+    second: Male_legion1helmet_gold_170
+  - first:
+      213: 1945047110648738375
+    second: Male_legion1helmet_gold_171
+  - first:
+      213: -4042311575875310758
+    second: Male_legion1helmet_gold_172
+  - first:
+      213: -3326552563021791252
+    second: Male_legion1helmet_gold_173
+  - first:
+      213: -2019707101310480271
+    second: Male_legion1helmet_gold_174
+  - first:
+      213: -2652654785836150576
+    second: Male_legion1helmet_gold_175
+  - first:
+      213: 5413012407508795072
+    second: Male_legion1helmet_gold_176
+  - first:
+      213: 4249783860083224343
+    second: Male_legion1helmet_gold_177
+  - first:
+      213: -8488558255078940420
+    second: Male_legion1helmet_gold_178
+  - first:
+      213: -6091721079343329359
+    second: Male_legion1helmet_gold_179
+  - first:
+      213: -150076702410159028
+    second: Male_legion1helmet_gold_180
+  - first:
+      213: -670526282163296358
+    second: Male_legion1helmet_gold_181
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ef74896f543400800000000000000
+      internalID: 302971981739844577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1262bb99390fc0800000000000000
+      internalID: -3528225492192584842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03da3ad2bebc7d90800000000000000
+      internalID: -7098589237267999985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a2b2c82713e1c0800000000000000
+      internalID: -4475708140843522490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb9976069f8be70800000000000000
+      internalID: 9131322436943986411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b3b0f8c4d490910800000000000000
+      internalID: 1804058116951325586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1308
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a10cc6b22f0220800000000000000
+      internalID: 2454218490442262227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1311
+        width: 77
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7b73a94b1800d30800000000000000
+      internalID: 4395655848995043267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca29fa5cd69ddde0800000000000000
+      internalID: -1306722443704325428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51e68fb76692da0800000000000000
+      internalID: -5969127148467907107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4816f039a5747540800000000000000
+      internalID: 5004754455446820938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483d35d37494f190800000000000000
+      internalID: -7929549818672891836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715aaf71863c1f590800000000000000
+      internalID: -7642112240824703721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d689b78d5717780800000000000000
+      internalID: -8687032633574003312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1244
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa90300d1bb216a0800000000000000
+      internalID: -6479911180601091335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ce7ac9c86f7a70800000000000000
+      internalID: 8826889010564482326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211096e81b4b95600800000000000000
+      internalID: 457595511846273298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a61d7e603a49ff0800000000000000
+      internalID: -30220047430358516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfcd682574a98a90800000000000000
+      internalID: -7311131696962875471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b221512965b310800000000000000
+      internalID: 1420156849321325574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ce5ca3225c4670800000000000000
+      internalID: 8524278507874731726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5b84bc7b184f60800000000000000
+      internalID: 8018689358952094462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af9faacebbd4970800000000000000
+      internalID: 8740849076951186053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d940be4a9396f30800000000000000
+      internalID: 4569246677424446760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d974ec68bb1f12fe0800000000000000
+      internalID: -1215424636690479203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a086cd93ece04d0800000000000000
+      internalID: -3166366740088616371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14187d45eacc3350800000000000000
+      internalID: 5997891889946694682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3cc1ab4be4b0740800000000000000
+      internalID: 5119271939560227750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1116
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7bc5d38142469b0800000000000000
+      internalID: -5087901992494516291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ee8523b4d28100800000000000000
+      internalID: 108883206904668515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2ea53f31bea7560800000000000000
+      internalID: 7312415415909147308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db5e35a205f6850800000000000000
+      internalID: 6372400140478954875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89beac2482d49d760800000000000000
+      internalID: 7483097091167415192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef47fb41ec2340d0800000000000000
+      internalID: -3439856344227164188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c86b6bcfbf499810800000000000000
+      internalID: 1772535613517162689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91123cb217f6e460800000000000000
+      internalID: 7270770308275114398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_36
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1052
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18837fe08d4c151c0800000000000000
+      internalID: -4516612519032833919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda1dc3cb6faaab0800000000000000
+      internalID: -4995909548279484958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40e0fdb16fc2330800000000000000
+      internalID: 3687592794476381388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880e8e190fee8b870800000000000000
+      internalID: 8698965397273632904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341e116a608cabf0800000000000000
+      internalID: -311733079811156944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_41
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1cfd812705b060800000000000000
+      internalID: 6968483839123136395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad01b3e5a7fe2860800000000000000
+      internalID: 7507209920734891434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25bee7f26ead8b0800000000000000
+      internalID: -5126532134140685604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 988
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7198d52f6f52a2ff0800000000000000
+      internalID: -60193902457681641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9663327723376020800000000000000
+      internalID: 2334891176327603868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf549a69f9871a1a0800000000000000
+      internalID: -6800021335529929221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248e808033f66d40800000000000000
+      internalID: 5577412578185741347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08230ac635e56c9c0800000000000000
+      internalID: -3907331914299592064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 923
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4dc93bdc29f6000800000000000000
+      internalID: 31405134594233514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 923
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ace30ed29b1990800000000000000
+      internalID: -7414170879289155579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 923
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23abd7a213db97a0800000000000000
+      internalID: -6369265170906373329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 924
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e6a1cf38f37f00800000000000000
+      internalID: 1113506485606211724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3edbaeb809f67d0800000000000000
+      internalID: -2922958702526995476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e1f1449304afa0800000000000000
+      internalID: -5790499285595200418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac806e649e21b9a0800000000000000
+      internalID: -6219138395380085587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909d606995b967e0800000000000000
+      internalID: -1771685308041162599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed91a635740182cb0800000000000000
+      internalID: -4888639496982488610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd275d1359696a410800000000000000
+      internalID: 1488042294422893277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81eaf50b51dda640800000000000000
+      internalID: 5092956942498455949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_60
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 860
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f73d790af0132930800000000000000
+      internalID: 4117153150433834999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad9d5405f0bfb500800000000000000
+      internalID: 414244257128095141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62f2bca8eadfae0800000000000000
+      internalID: -1513861988589033772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0644925dfb21670800000000000000
+      internalID: 8508073568297574611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 796
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da790c7bace42030800000000000000
+      internalID: 3469157834246683345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_65
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a958e7faa913c0800000000000000
+      internalID: -4388288380164004574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_66
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a317a6cc600030800000000000000
+      internalID: 3458884114282946632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9621dc81d23f20800000000000000
+      internalID: 3401011071352740576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_68
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 796
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b8073163a10f30800000000000000
+      internalID: 4540089537296644368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_69
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 797
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d4be0d8fd03270800000000000000
+      internalID: 8228322316136009803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3f160f87a130e0800000000000000
+      internalID: -2291866502629998953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 731
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440ad9ef2d6d7f30800000000000000
+      internalID: 4574932849032561732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_72
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc0e2c603b409390800000000000000
+      internalID: -7813662682142339909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234fb85dae7063b0800000000000000
+      internalID: -5521273860172856537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_74
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c13ea286728e4a0800000000000000
+      internalID: -6563953128542888846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 731
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6fc7686d8afe5c0800000000000000
+      internalID: -4183939889471097125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f3f96e9f5063780800000000000000
+      internalID: -8703762658972713186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12d9ed8e3611c50800000000000000
+      internalID: 6634193577911853562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 732
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16369d2642287af0800000000000000
+      internalID: -398530882214414819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_79
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf97d6ee5782110800000000000000
+      internalID: 1236367764612578215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cbc49cb60025b40800000000000000
+      internalID: 5427400963873619009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_81
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574124a0b7a4a110800000000000000
+      internalID: 1271325371935049564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 667
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fa5f8b56d447a40800000000000000
+      internalID: 5364998155395248014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d485217f06b860800000000000000
+      internalID: 7545235204341028935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed6ee56650088c90800000000000000
+      internalID: -7167478435882832407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc3282e3a2c3900800000000000000
+      internalID: 665453291393764337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_86
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 667
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eac80cc75d7ce10800000000000000
+      internalID: 2217976073286364788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_87
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de351db62f3ed61a0800000000000000
+      internalID: -6814540030811221011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff41fb0b117510f0800000000000000
+      internalID: -1146886169117503489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 603
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1900f3e0810d2bf0800000000000000
+      internalID: -347619943146059492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e33a267b43773b0800000000000000
+      internalID: -5514881256453358021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a9bb2f9550b660800000000000000
+      internalID: 7399508329891472206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e06f2d577cab1e0800000000000000
+      internalID: -2181211760643142110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_93
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 603
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d169074b571630800000000000000
+      internalID: 3897684363170665371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_94
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c20d4f7585bad10800000000000000
+      internalID: 2137899582910114839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_95
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4539574dafc91840800000000000000
+      internalID: 5195411988281898314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_96
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e5d1abe06a5a1f0800000000000000
+      internalID: -1034237957229420918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_97
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af47212798fe350800000000000000
+      internalID: 6048203947610798633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 539
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c24c7fb5dd09440800000000000000
+      internalID: 4940692178294025290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 539
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b770b463ff2173c40800000000000000
+      internalID: 5491879157938456443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c221c0e3ce0583a0800000000000000
+      internalID: -6663903839172615483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_101
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a535d84234cad0800000000000000
+      internalID: -2682964189609875125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_102
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 540
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca2f0721b0283c70800000000000000
+      internalID: 8950940204635466443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5207a5c50a5ab0800000000000000
+      internalID: -5018692488282349913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_104
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 474
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd79030e8eb7360800000000000000
+      internalID: 7168579281475853340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_105
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944f1ec293da8820800000000000000
+      internalID: 2921379935780029587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a0e4926bd8d2f0800000000000000
+      internalID: -947766505110461556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_107
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428d5d2df02de5c0800000000000000
+      internalID: -4184652206997405117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_108
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 476
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb95cd739222d4c0800000000000000
+      internalID: -4264307880300798997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_109
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aaeae8aaed02710800000000000000
+      internalID: 1666576686246701692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_110
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a3192ed2fff830800000000000000
+      internalID: 4107268421170996472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_111
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 410
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b626d7bb2a31e270800000000000000
+      internalID: 8277961549525952184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 411
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b619ff3ed4aed7a30800000000000000
+      internalID: 4214782446547210603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1c465d79687ee0800000000000000
+      internalID: -1263143708437766387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_114
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac00d926ed227bc0800000000000000
+      internalID: -3786913870097937235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_115
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcce98cacd1f92a40800000000000000
+      internalID: 5344068362941623503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_116
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 346
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e965afce2677b9c0800000000000000
+      internalID: -3911527807923688987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_117
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e39223e474eef0800000000000000
+      internalID: -79810374499311139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_118
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550a131fe7a2695f0800000000000000
+      internalID: -750365563209801643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_119
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c0213ab556cc70800000000000000
+      internalID: 8990967964268281902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_120
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 348
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fe72d2a932590c0800000000000000
+      internalID: -4569707101807972451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d35731dc956384c0800000000000000
+      internalID: -4286470696127212587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 283
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe145549c408540800000000000000
+      internalID: 5008086985605246901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5db213a67949840800000000000000
+      internalID: 5229971549631272414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_124
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba803113230e23d80800000000000000
+      internalID: -8272303059349862229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_125
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dded0684a7911130800000000000000
+      internalID: 3535773915342040530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_126
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d095b52cf86a6b40800000000000000
+      internalID: 5434271332549628119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_127
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2303e7f0ce8f3790800000000000000
+      internalID: -7548157491005947091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c98dff1b7610940800000000000000
+      internalID: 5260599853944708206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_129
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf706c885debb6180800000000000000
+      internalID: -9120986795976816645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_130
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c059bee2f8ee410800000000000000
+      internalID: 1508300356899376230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_131
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01320e8cb9b82c30800000000000000
+      internalID: 4334918860831600906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_132
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202256bf709f90dd0800000000000000
+      internalID: -2519208703859285502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_133
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d8b01482e42e2e0800000000000000
+      internalID: -2098028541604295407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_134
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f4e6e9390a21ea0800000000000000
+      internalID: -5903479605650632958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_135
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b580899ffb556610800000000000000
+      internalID: 1613797194832315830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_136
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9206a6b1bcc540800000000000000
+      internalID: 5029590281893355306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_137
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f90245bbf747120800000000000000
+      internalID: 2410692143097093915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_138
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9893c99221c444e0800000000000000
+      internalID: -1998259980292876134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_139
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522831c6ba99e800800000000000000
+      internalID: 642214531593413208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_140
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b743f823ccc562b0800000000000000
+      internalID: -5591838223732881484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_141
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 228
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fdb2053ba20850800000000000000
+      internalID: 6341819469458700552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_142
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7756af45d10275df0800000000000000
+      internalID: -191649148788120201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_143
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad3adea77c5d5e70800000000000000
+      internalID: 9105535690717412780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_144
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae7950799ed02470800000000000000
+      internalID: 8367932858250657441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_145
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d9eadb05082950800000000000000
+      internalID: 6424390416919548621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_146
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 220
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930a1cce355be9630800000000000000
+      internalID: 3935782496427417657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_147
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 220
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a390927efbf80d0800000000000000
+      internalID: -3418302592604095938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_148
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c9cbdac8c792e50800000000000000
+      internalID: 6785091257262447744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_149
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ccc2b3674cb1d70800000000000000
+      internalID: 9015015091190156422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_150
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b30d0211eac8380800000000000000
+      internalID: -8967601369413305446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_151
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7d2da257233ab0800000000000000
+      internalID: -5029633122796470691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_152
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38727405b09218960800000000000000
+      internalID: 7602402774546327427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_153
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da670bc961d8495d0800000000000000
+      internalID: -3056663118820116819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_154
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b1b8035071a6d0800000000000000
+      internalID: -2980977976412097469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_155
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0215387ec10df9390800000000000000
+      internalID: -7809294406275346144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_156
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb0684ed7a73ec0800000000000000
+      internalID: -3587214005038432850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_157
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71588aa47c4121e0800000000000000
+      internalID: -2224412676983336580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_158
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1547d8f68302e9a0800000000000000
+      internalID: -6205393458327763685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_159
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e288737f2ac9cae30800000000000000
+      internalID: 4516156750092011566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_160
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407197dabc749e330800000000000000
+      internalID: 3740599905622234884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_161
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e40d1b74c9e7fb0800000000000000
+      internalID: -4648105933659943418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_162
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f727bf366bc8aa0800000000000000
+      internalID: -6157346049985708172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_163
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc146112c76f0a4b0800000000000000
+      internalID: -5431070137617333813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_164
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474318e8b751ad9b0800000000000000
+      internalID: -5054704011353967500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_165
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d070477d265f1aee0800000000000000
+      internalID: -1251449416561981683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_166
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea507f192903540800000000000000
+      internalID: 4985645943111397002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_167
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf15e92e1299c60800000000000000
+      internalID: 7825323084735445817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_168
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 100
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66069dd1665f6f0800000000000000
+      internalID: -651502292698110242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_169
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c386c0efb93e760800000000000000
+      internalID: 7485998521052052556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_170
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395515c6358868fc0800000000000000
+      internalID: -3492954569098308205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_171
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7423e95ba023efa10800000000000000
+      internalID: 1945047110648738375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_172
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ba080f903d6e7c0800000000000000
+      internalID: -4042311575875310758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_173
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 92
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefbb6a9116b5d1d0800000000000000
+      internalID: -3326552563021791252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_174
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 92
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1701e0c971f88f3e0800000000000000
+      internalID: -2019707101310480271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_175
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01f72d680ef2bd0800000000000000
+      internalID: -2652654785836150576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_176
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef752fa12ee1b40800000000000000
+      internalID: 5413012407508795072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_177
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 20
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fe27887e34afa30800000000000000
+      internalID: 4249783860083224343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_178
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf06fc6cd35923a80800000000000000
+      internalID: -8488558255078940420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_179
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 11
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf4bf224fbd57ba0800000000000000
+      internalID: -6091721079343329359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_180
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc7c7c802daedf0800000000000000
+      internalID: -150076702410159028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_legion1helmet_gold_181
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 693
+        width: 409
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97e71326efc1b6f0800000000000000
+      internalID: -670526282163296358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
