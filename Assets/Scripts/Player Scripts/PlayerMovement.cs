@@ -40,6 +40,7 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("shop"))
         {
             movePlayer = false;
+            animator.enabled = false;
             dialogueTrigger.TriggerDialogue();
         }
 

@@ -108,6 +108,7 @@ public class Shop_UI : MonoBehaviour
     public void RemoveUI()
     {
         movement.movePlayer = true;
+        movement.animator.enabled = true;
         ui.SetActive(false);
         foreach(var item in items)
         {
