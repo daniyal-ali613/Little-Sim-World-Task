@@ -13,14 +13,20 @@ public class PlayerMovement : MonoBehaviour
     DialogueTrigger dialogueTrigger;
     public float radius;
     public bool movePlayer;
+    public AudioSource waterSplash;
+    public  Transform water;
+    public float minDist;
+    float dist;
     SpriteRenderer spr;
 
 
     void Start()
     {
-        spr = GetComponent<SpriteRenderer>();
+       spr = GetComponent<SpriteRenderer>();
        movePlayer = true;
        dialogueTrigger =  FindObjectOfType<DialogueTrigger>();
+       waterSplash.Stop();
+
 
     }
 
@@ -33,6 +39,20 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
+
+        dist = Vector3.Distance(water.position, transform.position);
+        Debug.Log(dist);
+
+
+        if (dist < minDist)
+        {
+            waterSplash.Play();
+        }
+
+        else
+        {
+            waterSplash.Stop();
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D other)
@@ -40,11 +60,10 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("shop"))
         {
             movePlayer = false;
+            animator.SetFloat("speed", 0);
             animator.enabled = false;
             dialogueTrigger.TriggerDialogue();
         }
-
-        
     }
 
     private void FixedUpdate()

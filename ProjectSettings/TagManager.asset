@@ -48,3 +48,6 @@ TagManager:
   - name: Clothes
     uniqueID: 1059652361
     locked: 0
+  - name: Trees
+    uniqueID: 4257331733
+    locked: 0

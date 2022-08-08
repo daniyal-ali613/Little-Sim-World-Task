@@ -124,7 +124,7 @@ public class DialogueManager : MonoBehaviour
 
     void EndFirstDialogue()
     {
-        firstAnimator.SetBool("isOpen", false) ;
+        firstAnimator.SetBool("isOpen", false);
         shopUi.SetActive(true);
     }
 
