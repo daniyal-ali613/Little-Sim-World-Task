@@ -9,25 +9,26 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer;
     public Transform shop;
-    Vector2 movement;
     DialogueTrigger dialogueTrigger;
     public float radius;
     public bool movePlayer;
     public AudioSource waterSplash;
     public  Transform water;
     public float minDist;
+
+    public List <GameObject> clothes = new List<GameObject>();
+    public List<Sprite> shirt = new List<Sprite>();
+    public List<Sprite> pant =  new List<Sprite>();
+    public List<Sprite> cap =   new List<Sprite>();
     float dist;
-    SpriteRenderer spr;
+    Vector2 movement;
 
 
     void Start()
     {
-       spr = GetComponent<SpriteRenderer>();
        movePlayer = true;
        dialogueTrigger =  FindObjectOfType<DialogueTrigger>();
        waterSplash.Stop();
-
-
     }
 
     void Update()
@@ -41,7 +42,6 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Speed", movement.sqrMagnitude);
 
         dist = Vector3.Distance(water.position, transform.position);
-        Debug.Log(dist);
 
 
         if (dist < minDist)
@@ -60,7 +60,7 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("shop"))
         {
             movePlayer = false;
-            animator.SetFloat("speed", 0);
+            animator.SetFloat("Speed", 0);
             animator.enabled = false;
             dialogueTrigger.TriggerDialogue();
         }
@@ -73,4 +73,5 @@ public class PlayerMovement : MonoBehaviour
           rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
         }
     }
+
 }
